@@ -1,6 +1,6 @@
 {
   "name": "atlas-latest-experiments-panel",
-  "version": "1.0.1",
+  "version": "1.0.0-snapshot",
   "description": "A package that renders links to experiments in (Single Cell) Expression Atlas in style.",
   "main": "lib/index.js",
   "scripts": {
