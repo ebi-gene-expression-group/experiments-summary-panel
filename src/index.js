@@ -1,1 +1,1 @@
-export { default } from './LatestExperimentsList'
+export { default } from './ExperimentsSummaryPanel'
