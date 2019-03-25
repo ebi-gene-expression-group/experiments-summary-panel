@@ -41,7 +41,7 @@
     "url": "https://github.com/ebi-gene-expression-group/atlas-homepage-cards"
   },
   "dependencies": {
-    "atlas-homepage-cards": "^2.0.0",
+    "atlas-homepage-cards": "^2.0.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.5",
     "styled-components": "^4.2.0",
