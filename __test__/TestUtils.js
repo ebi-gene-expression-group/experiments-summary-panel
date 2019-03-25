@@ -196,7 +196,7 @@ const singleCellExperiments = [
 
 const buildFeaturedExperimentsCards = (host) => {
   const linkToImage = (imgFileName) =>
-    URI(`resources/images/experiment-list-latest/${imgFileName}.png`, host).toString()
+    URI(`resources/images/experiments-summary/${imgFileName}.png`, host).toString()
   const linkToExperiment = (accession) =>
     URI(`experiments/${accession}`, host).toString()
   const linkToExperimentSet = (keyword) =>
