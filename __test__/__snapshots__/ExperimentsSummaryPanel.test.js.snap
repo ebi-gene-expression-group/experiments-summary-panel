@@ -18,7 +18,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
         "description": Object {
           "url": "https://www.ebi.ac.uk/experiments?experimentSet=ENCODE",
         },
-        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/encode.png",
+        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/encode.png",
         "iconType": "image",
       },
       Object {
@@ -39,7 +39,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
         "description": Object {
           "url": "https://www.ebi.ac.uk/experiments?experimentSet=BLUEPRINT",
         },
-        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/blueprint.png",
+        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/blueprint.png",
         "iconType": "image",
       },
       Object {
@@ -60,7 +60,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
         "description": Object {
           "url": "https://www.ebi.ac.uk/experiments?experimentSet=FANTOM5",
         },
-        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/fantom.png",
+        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/fantom.png",
         "iconType": "image",
       },
       Object {
@@ -73,7 +73,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
         "description": Object {
           "url": "https://www.ebi.ac.uk/gxa/experiments/E-PROT-3",
         },
-        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/human_protein_atlas.png",
+        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/human_protein_atlas.png",
         "iconType": "image",
       },
       Object {
@@ -86,7 +86,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
         "description": Object {
           "url": "https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2770",
         },
-        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/ccle.png",
+        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/ccle.png",
         "iconType": "image",
       },
       Object {
@@ -103,7 +103,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
         "description": Object {
           "url": "https://www.ebi.ac.uk/experiments?experimentSet=HipSci",
         },
-        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/hipsci.png",
+        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/hipsci.png",
         "iconType": "image",
       },
       Object {
@@ -116,7 +116,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
         "description": Object {
           "url": "https://www.ebi.ac.uk/gxa/experiments/E-MTAB-5214",
         },
-        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/gtex.png",
+        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/gtex.png",
         "iconType": "image",
       },
       Object {
@@ -133,7 +133,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
         "description": Object {
           "url": "https://www.ebi.ac.uk/experiments?experimentSet=Pan-Cancer",
         },
-        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/pcawg.png",
+        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/pcawg.png",
         "iconType": "image",
       },
       Object {
@@ -146,7 +146,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
         "description": Object {
           "url": "https://www.ebi.ac.uk/gxa/experiments/E-MTAB-3983",
         },
-        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/wtsi_mgh_cancerrxgene.png",
+        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/wtsi_mgh_cancerrxgene.png",
         "iconType": "image",
       },
       Object {
@@ -159,7 +159,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
         "description": Object {
           "url": "https://www.ebi.ac.uk/gxa/experiments/E-MTAB-4840",
         },
-        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/hdbr.png",
+        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/hdbr.png",
         "iconType": "image",
       },
       Object {
@@ -172,7 +172,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
         "description": Object {
           "url": "https://www.ebi.ac.uk/gxa/baseline/experiments",
         },
-        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/baseline.png",
+        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/baseline.png",
         "iconType": "image",
       },
       Object {
@@ -185,7 +185,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
         "description": Object {
           "url": "https://www.ebi.ac.uk/gxa/plant/experiments",
         },
-        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/gramene.png",
+        "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/gramene.png",
         "iconType": "image",
       },
     ]
@@ -404,7 +404,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               "description": Object {
                 "url": "https://www.ebi.ac.uk/experiments?experimentSet=ENCODE",
               },
-              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/encode.png",
+              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/encode.png",
               "iconType": "image",
             },
             Object {
@@ -425,7 +425,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               "description": Object {
                 "url": "https://www.ebi.ac.uk/experiments?experimentSet=BLUEPRINT",
               },
-              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/blueprint.png",
+              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/blueprint.png",
               "iconType": "image",
             },
             Object {
@@ -446,7 +446,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               "description": Object {
                 "url": "https://www.ebi.ac.uk/experiments?experimentSet=FANTOM5",
               },
-              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/fantom.png",
+              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/fantom.png",
               "iconType": "image",
             },
             Object {
@@ -459,7 +459,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               "description": Object {
                 "url": "https://www.ebi.ac.uk/gxa/experiments/E-PROT-3",
               },
-              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/human_protein_atlas.png",
+              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/human_protein_atlas.png",
               "iconType": "image",
             },
             Object {
@@ -472,7 +472,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               "description": Object {
                 "url": "https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2770",
               },
-              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/ccle.png",
+              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/ccle.png",
               "iconType": "image",
             },
             Object {
@@ -489,7 +489,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               "description": Object {
                 "url": "https://www.ebi.ac.uk/experiments?experimentSet=HipSci",
               },
-              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/hipsci.png",
+              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/hipsci.png",
               "iconType": "image",
             },
             Object {
@@ -502,7 +502,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               "description": Object {
                 "url": "https://www.ebi.ac.uk/gxa/experiments/E-MTAB-5214",
               },
-              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/gtex.png",
+              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/gtex.png",
               "iconType": "image",
             },
             Object {
@@ -519,7 +519,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               "description": Object {
                 "url": "https://www.ebi.ac.uk/experiments?experimentSet=Pan-Cancer",
               },
-              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/pcawg.png",
+              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/pcawg.png",
               "iconType": "image",
             },
             Object {
@@ -532,7 +532,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               "description": Object {
                 "url": "https://www.ebi.ac.uk/gxa/experiments/E-MTAB-3983",
               },
-              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/wtsi_mgh_cancerrxgene.png",
+              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/wtsi_mgh_cancerrxgene.png",
               "iconType": "image",
             },
             Object {
@@ -545,7 +545,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               "description": Object {
                 "url": "https://www.ebi.ac.uk/gxa/experiments/E-MTAB-4840",
               },
-              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/hdbr.png",
+              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/hdbr.png",
               "iconType": "image",
             },
             Object {
@@ -558,7 +558,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               "description": Object {
                 "url": "https://www.ebi.ac.uk/gxa/baseline/experiments",
               },
-              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/baseline.png",
+              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/baseline.png",
               "iconType": "image",
             },
             Object {
@@ -571,7 +571,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               "description": Object {
                 "url": "https://www.ebi.ac.uk/gxa/plant/experiments",
               },
-              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/gramene.png",
+              "iconSrc": "https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/gramene.png",
               "iconType": "image",
             },
           ]
@@ -642,7 +642,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       "url": "https://www.ebi.ac.uk/experiments?experimentSet=ENCODE",
                     }
                   }
-                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/encode.png"
+                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/encode.png"
                   iconType="image"
                   imageIconHeight="2rem"
                   speciesIconHeight="6rem"
@@ -665,7 +665,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       }
                     >
                       <img
-                        src="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/encode.png"
+                        src="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/encode.png"
                         style={
                           Object {
                             "height": "2rem",
@@ -784,7 +784,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       "url": "https://www.ebi.ac.uk/experiments?experimentSet=BLUEPRINT",
                     }
                   }
-                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/blueprint.png"
+                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/blueprint.png"
                   iconType="image"
                   imageIconHeight="2rem"
                   speciesIconHeight="6rem"
@@ -807,7 +807,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       }
                     >
                       <img
-                        src="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/blueprint.png"
+                        src="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/blueprint.png"
                         style={
                           Object {
                             "height": "2rem",
@@ -940,7 +940,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       "url": "https://www.ebi.ac.uk/experiments?experimentSet=FANTOM5",
                     }
                   }
-                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/fantom.png"
+                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/fantom.png"
                   iconType="image"
                   imageIconHeight="2rem"
                   speciesIconHeight="6rem"
@@ -963,7 +963,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       }
                     >
                       <img
-                        src="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/fantom.png"
+                        src="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/fantom.png"
                         style={
                           Object {
                             "height": "2rem",
@@ -1088,7 +1088,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       "url": "https://www.ebi.ac.uk/gxa/experiments/E-PROT-3",
                     }
                   }
-                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/human_protein_atlas.png"
+                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/human_protein_atlas.png"
                   iconType="image"
                   imageIconHeight="2rem"
                   speciesIconHeight="6rem"
@@ -1111,7 +1111,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       }
                     >
                       <img
-                        src="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/human_protein_atlas.png"
+                        src="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/human_protein_atlas.png"
                         style={
                           Object {
                             "height": "2rem",
@@ -1208,7 +1208,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       "url": "https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2770",
                     }
                   }
-                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/ccle.png"
+                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/ccle.png"
                   iconType="image"
                   imageIconHeight="2rem"
                   speciesIconHeight="6rem"
@@ -1231,7 +1231,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       }
                     >
                       <img
-                        src="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/ccle.png"
+                        src="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/ccle.png"
                         style={
                           Object {
                             "height": "2rem",
@@ -1332,7 +1332,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       "url": "https://www.ebi.ac.uk/experiments?experimentSet=HipSci",
                     }
                   }
-                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/hipsci.png"
+                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/hipsci.png"
                   iconType="image"
                   imageIconHeight="2rem"
                   speciesIconHeight="6rem"
@@ -1355,7 +1355,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       }
                     >
                       <img
-                        src="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/hipsci.png"
+                        src="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/hipsci.png"
                         style={
                           Object {
                             "height": "2rem",
@@ -1466,7 +1466,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       "url": "https://www.ebi.ac.uk/gxa/experiments/E-MTAB-5214",
                     }
                   }
-                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/gtex.png"
+                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/gtex.png"
                   iconType="image"
                   imageIconHeight="2rem"
                   speciesIconHeight="6rem"
@@ -1489,7 +1489,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       }
                     >
                       <img
-                        src="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/gtex.png"
+                        src="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/gtex.png"
                         style={
                           Object {
                             "height": "2rem",
@@ -1590,7 +1590,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       "url": "https://www.ebi.ac.uk/experiments?experimentSet=Pan-Cancer",
                     }
                   }
-                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/pcawg.png"
+                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/pcawg.png"
                   iconType="image"
                   imageIconHeight="2rem"
                   speciesIconHeight="6rem"
@@ -1613,7 +1613,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       }
                     >
                       <img
-                        src="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/pcawg.png"
+                        src="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/pcawg.png"
                         style={
                           Object {
                             "height": "2rem",
@@ -1724,7 +1724,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       "url": "https://www.ebi.ac.uk/gxa/experiments/E-MTAB-3983",
                     }
                   }
-                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/wtsi_mgh_cancerrxgene.png"
+                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/wtsi_mgh_cancerrxgene.png"
                   iconType="image"
                   imageIconHeight="2rem"
                   speciesIconHeight="6rem"
@@ -1747,7 +1747,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       }
                     >
                       <img
-                        src="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/wtsi_mgh_cancerrxgene.png"
+                        src="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/wtsi_mgh_cancerrxgene.png"
                         style={
                           Object {
                             "height": "2rem",
@@ -1844,7 +1844,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       "url": "https://www.ebi.ac.uk/gxa/experiments/E-MTAB-4840",
                     }
                   }
-                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/hdbr.png"
+                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/hdbr.png"
                   iconType="image"
                   imageIconHeight="2rem"
                   speciesIconHeight="6rem"
@@ -1867,7 +1867,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       }
                     >
                       <img
-                        src="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/hdbr.png"
+                        src="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/hdbr.png"
                         style={
                           Object {
                             "height": "2rem",
@@ -1964,7 +1964,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       "url": "https://www.ebi.ac.uk/gxa/baseline/experiments",
                     }
                   }
-                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/baseline.png"
+                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/baseline.png"
                   iconType="image"
                   imageIconHeight="2rem"
                   speciesIconHeight="6rem"
@@ -1987,7 +1987,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       }
                     >
                       <img
-                        src="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/baseline.png"
+                        src="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/baseline.png"
                         style={
                           Object {
                             "height": "2rem",
@@ -2084,7 +2084,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       "url": "https://www.ebi.ac.uk/gxa/plant/experiments",
                     }
                   }
-                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/gramene.png"
+                  iconSrc="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/gramene.png"
                   iconType="image"
                   imageIconHeight="2rem"
                   speciesIconHeight="6rem"
@@ -2107,7 +2107,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       }
                     >
                       <img
-                        src="https://www.ebi.ac.uk/gxa/resources/images/experiment-list-latest/gramene.png"
+                        src="https://www.ebi.ac.uk/gxa/resources/images/experiments-summary/gramene.png"
                         style={
                           Object {
                             "height": "2rem",
