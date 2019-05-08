@@ -7,8 +7,7 @@
     "prepack": "rm -rf lib && babel src -d lib --copy-files",
     "test": "jest",
     "posttest": "jest --coverage --coverageReporters=text-lcov | coveralls",
-    "postversion": "npm publish",
-    "postpublish": "git push && git push --tags"
+    "postversion": "git push && git push --tags"
   },
   "jest": {
     "setupFilesAfterEnv": [
@@ -54,7 +53,7 @@
     "@babel/preset-env": "^7.4.3",
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.5",
-    "clean-webpack-plugin": "^2.0.1",
+    "clean-webpack-plugin": "^2.0.2",
     "coveralls": "^3.0.3",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.12.1",
