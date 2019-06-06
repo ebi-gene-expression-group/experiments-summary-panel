@@ -597,10 +597,9 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-EHOje",
                     "isStatic": true,
-                    "lastClassName": "hWjXNE",
+                    "lastClassName": "fHEUvF",
                     "rules": Array [
                       "
-    /* border-radius: 8px; */
     :hover {
       background: ",
                       "AliceBlue",
@@ -612,6 +611,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "displayName": "styled.div",
                   "foldedComponentIds": Array [],
                   "render": [Function],
+                  "self": [Circular],
                   "styledComponentId": "sc-EHOje",
                   "target": "div",
                   "toString": [Function],
@@ -622,7 +622,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               forwardedRef={null}
             >
               <div
-                className="sc-EHOje hWjXNE"
+                className="sc-EHOje fHEUvF"
               >
                 <Card
                   content={
@@ -735,10 +735,9 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-EHOje",
                     "isStatic": true,
-                    "lastClassName": "hWjXNE",
+                    "lastClassName": "fHEUvF",
                     "rules": Array [
                       "
-    /* border-radius: 8px; */
     :hover {
       background: ",
                       "AliceBlue",
@@ -750,6 +749,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "displayName": "styled.div",
                   "foldedComponentIds": Array [],
                   "render": [Function],
+                  "self": [Circular],
                   "styledComponentId": "sc-EHOje",
                   "target": "div",
                   "toString": [Function],
@@ -760,7 +760,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               forwardedRef={null}
             >
               <div
-                className="sc-EHOje hWjXNE"
+                className="sc-EHOje fHEUvF"
               >
                 <Card
                   content={
@@ -891,10 +891,9 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-EHOje",
                     "isStatic": true,
-                    "lastClassName": "hWjXNE",
+                    "lastClassName": "fHEUvF",
                     "rules": Array [
                       "
-    /* border-radius: 8px; */
     :hover {
       background: ",
                       "AliceBlue",
@@ -906,6 +905,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "displayName": "styled.div",
                   "foldedComponentIds": Array [],
                   "render": [Function],
+                  "self": [Circular],
                   "styledComponentId": "sc-EHOje",
                   "target": "div",
                   "toString": [Function],
@@ -916,7 +916,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               forwardedRef={null}
             >
               <div
-                className="sc-EHOje hWjXNE"
+                className="sc-EHOje fHEUvF"
               >
                 <Card
                   content={
@@ -1047,10 +1047,9 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-EHOje",
                     "isStatic": true,
-                    "lastClassName": "hWjXNE",
+                    "lastClassName": "fHEUvF",
                     "rules": Array [
                       "
-    /* border-radius: 8px; */
     :hover {
       background: ",
                       "AliceBlue",
@@ -1062,6 +1061,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "displayName": "styled.div",
                   "foldedComponentIds": Array [],
                   "render": [Function],
+                  "self": [Circular],
                   "styledComponentId": "sc-EHOje",
                   "target": "div",
                   "toString": [Function],
@@ -1072,7 +1072,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               forwardedRef={null}
             >
               <div
-                className="sc-EHOje hWjXNE"
+                className="sc-EHOje fHEUvF"
               >
                 <Card
                   content={
@@ -1167,10 +1167,9 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-EHOje",
                     "isStatic": true,
-                    "lastClassName": "hWjXNE",
+                    "lastClassName": "fHEUvF",
                     "rules": Array [
                       "
-    /* border-radius: 8px; */
     :hover {
       background: ",
                       "AliceBlue",
@@ -1182,6 +1181,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "displayName": "styled.div",
                   "foldedComponentIds": Array [],
                   "render": [Function],
+                  "self": [Circular],
                   "styledComponentId": "sc-EHOje",
                   "target": "div",
                   "toString": [Function],
@@ -1192,7 +1192,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               forwardedRef={null}
             >
               <div
-                className="sc-EHOje hWjXNE"
+                className="sc-EHOje fHEUvF"
               >
                 <Card
                   content={
@@ -1287,10 +1287,9 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-EHOje",
                     "isStatic": true,
-                    "lastClassName": "hWjXNE",
+                    "lastClassName": "fHEUvF",
                     "rules": Array [
                       "
-    /* border-radius: 8px; */
     :hover {
       background: ",
                       "AliceBlue",
@@ -1302,6 +1301,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "displayName": "styled.div",
                   "foldedComponentIds": Array [],
                   "render": [Function],
+                  "self": [Circular],
                   "styledComponentId": "sc-EHOje",
                   "target": "div",
                   "toString": [Function],
@@ -1312,7 +1312,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               forwardedRef={null}
             >
               <div
-                className="sc-EHOje hWjXNE"
+                className="sc-EHOje fHEUvF"
               >
                 <Card
                   content={
@@ -1425,10 +1425,9 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-EHOje",
                     "isStatic": true,
-                    "lastClassName": "hWjXNE",
+                    "lastClassName": "fHEUvF",
                     "rules": Array [
                       "
-    /* border-radius: 8px; */
     :hover {
       background: ",
                       "AliceBlue",
@@ -1440,6 +1439,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "displayName": "styled.div",
                   "foldedComponentIds": Array [],
                   "render": [Function],
+                  "self": [Circular],
                   "styledComponentId": "sc-EHOje",
                   "target": "div",
                   "toString": [Function],
@@ -1450,7 +1450,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               forwardedRef={null}
             >
               <div
-                className="sc-EHOje hWjXNE"
+                className="sc-EHOje fHEUvF"
               >
                 <Card
                   content={
@@ -1545,10 +1545,9 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-EHOje",
                     "isStatic": true,
-                    "lastClassName": "hWjXNE",
+                    "lastClassName": "fHEUvF",
                     "rules": Array [
                       "
-    /* border-radius: 8px; */
     :hover {
       background: ",
                       "AliceBlue",
@@ -1560,6 +1559,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "displayName": "styled.div",
                   "foldedComponentIds": Array [],
                   "render": [Function],
+                  "self": [Circular],
                   "styledComponentId": "sc-EHOje",
                   "target": "div",
                   "toString": [Function],
@@ -1570,7 +1570,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               forwardedRef={null}
             >
               <div
-                className="sc-EHOje hWjXNE"
+                className="sc-EHOje fHEUvF"
               >
                 <Card
                   content={
@@ -1683,10 +1683,9 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-EHOje",
                     "isStatic": true,
-                    "lastClassName": "hWjXNE",
+                    "lastClassName": "fHEUvF",
                     "rules": Array [
                       "
-    /* border-radius: 8px; */
     :hover {
       background: ",
                       "AliceBlue",
@@ -1698,6 +1697,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "displayName": "styled.div",
                   "foldedComponentIds": Array [],
                   "render": [Function],
+                  "self": [Circular],
                   "styledComponentId": "sc-EHOje",
                   "target": "div",
                   "toString": [Function],
@@ -1708,7 +1708,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               forwardedRef={null}
             >
               <div
-                className="sc-EHOje hWjXNE"
+                className="sc-EHOje fHEUvF"
               >
                 <Card
                   content={
@@ -1803,10 +1803,9 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-EHOje",
                     "isStatic": true,
-                    "lastClassName": "hWjXNE",
+                    "lastClassName": "fHEUvF",
                     "rules": Array [
                       "
-    /* border-radius: 8px; */
     :hover {
       background: ",
                       "AliceBlue",
@@ -1818,6 +1817,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "displayName": "styled.div",
                   "foldedComponentIds": Array [],
                   "render": [Function],
+                  "self": [Circular],
                   "styledComponentId": "sc-EHOje",
                   "target": "div",
                   "toString": [Function],
@@ -1828,7 +1828,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               forwardedRef={null}
             >
               <div
-                className="sc-EHOje hWjXNE"
+                className="sc-EHOje fHEUvF"
               >
                 <Card
                   content={
@@ -1923,10 +1923,9 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-EHOje",
                     "isStatic": true,
-                    "lastClassName": "hWjXNE",
+                    "lastClassName": "fHEUvF",
                     "rules": Array [
                       "
-    /* border-radius: 8px; */
     :hover {
       background: ",
                       "AliceBlue",
@@ -1938,6 +1937,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "displayName": "styled.div",
                   "foldedComponentIds": Array [],
                   "render": [Function],
+                  "self": [Circular],
                   "styledComponentId": "sc-EHOje",
                   "target": "div",
                   "toString": [Function],
@@ -1948,7 +1948,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               forwardedRef={null}
             >
               <div
-                className="sc-EHOje hWjXNE"
+                className="sc-EHOje fHEUvF"
               >
                 <Card
                   content={
@@ -2043,10 +2043,9 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-EHOje",
                     "isStatic": true,
-                    "lastClassName": "hWjXNE",
+                    "lastClassName": "fHEUvF",
                     "rules": Array [
                       "
-    /* border-radius: 8px; */
     :hover {
       background: ",
                       "AliceBlue",
@@ -2058,6 +2057,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   "displayName": "styled.div",
                   "foldedComponentIds": Array [],
                   "render": [Function],
+                  "self": [Circular],
                   "styledComponentId": "sc-EHOje",
                   "target": "div",
                   "toString": [Function],
@@ -2068,7 +2068,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               forwardedRef={null}
             >
               <div
-                className="sc-EHOje hWjXNE"
+                className="sc-EHOje fHEUvF"
               >
                 <Card
                   content={
@@ -2377,6 +2377,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -2424,6 +2425,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -2467,6 +2469,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -2515,6 +2518,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -2561,6 +2565,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -2615,6 +2620,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -2706,6 +2712,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -2753,6 +2760,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -2796,6 +2804,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -2844,6 +2853,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -2890,6 +2900,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -2944,6 +2955,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -3035,6 +3047,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -3082,6 +3095,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -3125,6 +3139,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -3173,6 +3188,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -3219,6 +3235,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -3273,6 +3290,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -3364,6 +3382,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -3411,6 +3430,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -3454,6 +3474,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -3502,6 +3523,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -3548,6 +3570,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -3602,6 +3625,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -3694,6 +3718,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -3741,6 +3766,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -3784,6 +3810,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -3832,6 +3859,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -3878,6 +3906,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -3932,6 +3961,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -4032,6 +4062,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -4079,6 +4110,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -4122,6 +4154,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -4170,6 +4203,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -4216,6 +4250,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -4270,6 +4305,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -4370,6 +4406,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -4417,6 +4454,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -4460,6 +4498,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -4508,6 +4547,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -4554,6 +4594,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -4608,6 +4649,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -4707,6 +4749,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -4754,6 +4797,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -4797,6 +4841,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -4845,6 +4890,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -4891,6 +4937,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -4945,6 +4992,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -5202,6 +5250,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -5250,6 +5299,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -5296,6 +5346,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -5350,6 +5401,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -5445,6 +5497,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -5493,6 +5546,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -5539,6 +5593,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -5593,6 +5648,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -5687,6 +5743,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -5735,6 +5792,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                               "displayName": "styled.span",
                               "foldedComponentIds": Array [],
                               "render": [Function],
+                              "self": [Circular],
                               "styledComponentId": "sc-ifAKCX",
                               "target": "span",
                               "toString": [Function],
@@ -5781,6 +5839,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
@@ -5835,6 +5894,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                         "displayName": "styled.div",
                         "foldedComponentIds": Array [],
                         "render": [Function],
+                        "self": [Circular],
                         "styledComponentId": "sc-bxivhb",
                         "target": "div",
                         "toString": [Function],
