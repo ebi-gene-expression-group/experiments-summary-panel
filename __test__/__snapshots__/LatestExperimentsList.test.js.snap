@@ -323,6 +323,11 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                 <styled.span
                   backgroundColor="gray"
                   className="button"
+                  style={
+                    Object {
+                      "display": "inline",
+                    }
+                  }
                   title="Number of assays in experiment"
                 >
                   <StyledComponent
@@ -365,10 +370,20 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                       }
                     }
                     forwardedRef={null}
+                    style={
+                      Object {
+                        "display": "inline",
+                      }
+                    }
                     title="Number of assays in experiment"
                   >
                     <span
                       className="button sc-bwzfXH hzjPfe"
+                      style={
+                        Object {
+                          "display": "inline",
+                        }
+                      }
                       title="Number of assays in experiment"
                     >
                       49
@@ -658,6 +673,11 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                 <styled.span
                   backgroundColor="gray"
                   className="button"
+                  style={
+                    Object {
+                      "display": "inline",
+                    }
+                  }
                   title="Number of assays in experiment"
                 >
                   <StyledComponent
@@ -700,10 +720,20 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                       }
                     }
                     forwardedRef={null}
+                    style={
+                      Object {
+                        "display": "inline",
+                      }
+                    }
                     title="Number of assays in experiment"
                   >
                     <span
                       className="button sc-bwzfXH hzjPfe"
+                      style={
+                        Object {
+                          "display": "inline",
+                        }
+                      }
                       title="Number of assays in experiment"
                     >
                       11
@@ -993,6 +1023,11 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                 <styled.span
                   backgroundColor="gray"
                   className="button"
+                  style={
+                    Object {
+                      "display": "inline",
+                    }
+                  }
                   title="Number of assays in experiment"
                 >
                   <StyledComponent
@@ -1035,10 +1070,20 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                       }
                     }
                     forwardedRef={null}
+                    style={
+                      Object {
+                        "display": "inline",
+                      }
+                    }
                     title="Number of assays in experiment"
                   >
                     <span
                       className="button sc-bwzfXH hzjPfe"
+                      style={
+                        Object {
+                          "display": "inline",
+                        }
+                      }
                       title="Number of assays in experiment"
                     >
                       200
@@ -1328,6 +1373,11 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                 <styled.span
                   backgroundColor="gray"
                   className="button"
+                  style={
+                    Object {
+                      "display": "inline",
+                    }
+                  }
                   title="Number of assays in experiment"
                 >
                   <StyledComponent
@@ -1370,10 +1420,20 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                       }
                     }
                     forwardedRef={null}
+                    style={
+                      Object {
+                        "display": "inline",
+                      }
+                    }
                     title="Number of assays in experiment"
                   >
                     <span
                       className="button sc-bwzfXH hzjPfe"
+                      style={
+                        Object {
+                          "display": "inline",
+                        }
+                      }
                       title="Number of assays in experiment"
                     >
                       11
@@ -1664,6 +1724,11 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                 <styled.span
                   backgroundColor="gray"
                   className="button"
+                  style={
+                    Object {
+                      "display": "inline",
+                    }
+                  }
                   title="Number of assays in experiment"
                 >
                   <StyledComponent
@@ -1706,10 +1771,20 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                       }
                     }
                     forwardedRef={null}
+                    style={
+                      Object {
+                        "display": "inline",
+                      }
+                    }
                     title="Number of assays in experiment"
                   >
                     <span
                       className="button sc-bwzfXH hzjPfe"
+                      style={
+                        Object {
+                          "display": "inline",
+                        }
+                      }
                       title="Number of assays in experiment"
                     >
                       30
@@ -2008,6 +2083,11 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                 <styled.span
                   backgroundColor="gray"
                   className="button"
+                  style={
+                    Object {
+                      "display": "inline",
+                    }
+                  }
                   title="Number of assays in experiment"
                 >
                   <StyledComponent
@@ -2050,10 +2130,20 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                       }
                     }
                     forwardedRef={null}
+                    style={
+                      Object {
+                        "display": "inline",
+                      }
+                    }
                     title="Number of assays in experiment"
                   >
                     <span
                       className="button sc-bwzfXH hzjPfe"
+                      style={
+                        Object {
+                          "display": "inline",
+                        }
+                      }
                       title="Number of assays in experiment"
                     >
                       89
@@ -2352,6 +2442,11 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                 <styled.span
                   backgroundColor="gray"
                   className="button"
+                  style={
+                    Object {
+                      "display": "inline",
+                    }
+                  }
                   title="Number of assays in experiment"
                 >
                   <StyledComponent
@@ -2394,10 +2489,20 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                       }
                     }
                     forwardedRef={null}
+                    style={
+                      Object {
+                        "display": "inline",
+                      }
+                    }
                     title="Number of assays in experiment"
                   >
                     <span
                       className="button sc-bwzfXH hzjPfe"
+                      style={
+                        Object {
+                          "display": "inline",
+                        }
+                      }
                       title="Number of assays in experiment"
                     >
                       12
@@ -2695,6 +2800,11 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                 <styled.span
                   backgroundColor="gray"
                   className="button"
+                  style={
+                    Object {
+                      "display": "inline",
+                    }
+                  }
                   title="Number of assays in experiment"
                 >
                   <StyledComponent
@@ -2737,10 +2847,20 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                       }
                     }
                     forwardedRef={null}
+                    style={
+                      Object {
+                        "display": "inline",
+                      }
+                    }
                     title="Number of assays in experiment"
                   >
                     <span
                       className="button sc-bwzfXH hzjPfe"
+                      style={
+                        Object {
+                          "display": "inline",
+                        }
+                      }
                       title="Number of assays in experiment"
                     >
                       12
@@ -3011,6 +3131,11 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                 <styled.span
                   backgroundColor="gray"
                   className="button"
+                  style={
+                    Object {
+                      "display": "inline",
+                    }
+                  }
                   title="Number of assays in experiment"
                 >
                   <StyledComponent
@@ -3053,10 +3178,20 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                       }
                     }
                     forwardedRef={null}
+                    style={
+                      Object {
+                        "display": "inline",
+                      }
+                    }
                     title="Number of assays in experiment"
                   >
                     <span
                       className="button sc-bwzfXH hzjPfe"
+                      style={
+                        Object {
+                          "display": "inline",
+                        }
+                      }
                       title="Number of assays in experiment"
                     >
                       6,638
@@ -3258,6 +3393,11 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                 <styled.span
                   backgroundColor="gray"
                   className="button"
+                  style={
+                    Object {
+                      "display": "inline",
+                    }
+                  }
                   title="Number of assays in experiment"
                 >
                   <StyledComponent
@@ -3300,10 +3440,20 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                       }
                     }
                     forwardedRef={null}
+                    style={
+                      Object {
+                        "display": "inline",
+                      }
+                    }
                     title="Number of assays in experiment"
                   >
                     <span
                       className="button sc-bwzfXH hzjPfe"
+                      style={
+                        Object {
+                          "display": "inline",
+                        }
+                      }
                       title="Number of assays in experiment"
                     >
                       3,514
@@ -3504,6 +3654,11 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                 <styled.span
                   backgroundColor="gray"
                   className="button"
+                  style={
+                    Object {
+                      "display": "inline",
+                    }
+                  }
                   title="Number of assays in experiment"
                 >
                   <StyledComponent
@@ -3546,10 +3701,20 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                       }
                     }
                     forwardedRef={null}
+                    style={
+                      Object {
+                        "display": "inline",
+                      }
+                    }
                     title="Number of assays in experiment"
                   >
                     <span
                       className="button sc-bwzfXH hzjPfe"
+                      style={
+                        Object {
+                          "display": "inline",
+                        }
+                      }
                       title="Number of assays in experiment"
                     >
                       250
