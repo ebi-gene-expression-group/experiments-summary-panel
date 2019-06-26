@@ -2487,7 +2487,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         className="button"
                         style={
                           Object {
-                            "display": "inline",
+                            "minWidth": "120px",
                           }
                         }
                         title="Number of assays in experiment"
@@ -2534,7 +2534,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                           forwardedRef={null}
                           style={
                             Object {
-                              "display": "inline",
+                              "minWidth": "120px",
                             }
                           }
                           title="Number of assays in experiment"
@@ -2543,7 +2543,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                             className="button sc-ifAKCX dfoKxv"
                             style={
                               Object {
-                                "display": "inline",
+                                "minWidth": "120px",
                               }
                             }
                             title="Number of assays in experiment"
@@ -2837,7 +2837,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         className="button"
                         style={
                           Object {
-                            "display": "inline",
+                            "minWidth": "120px",
                           }
                         }
                         title="Number of assays in experiment"
@@ -2884,7 +2884,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                           forwardedRef={null}
                           style={
                             Object {
-                              "display": "inline",
+                              "minWidth": "120px",
                             }
                           }
                           title="Number of assays in experiment"
@@ -2893,7 +2893,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                             className="button sc-ifAKCX dfoKxv"
                             style={
                               Object {
-                                "display": "inline",
+                                "minWidth": "120px",
                               }
                             }
                             title="Number of assays in experiment"
@@ -3187,7 +3187,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         className="button"
                         style={
                           Object {
-                            "display": "inline",
+                            "minWidth": "120px",
                           }
                         }
                         title="Number of assays in experiment"
@@ -3234,7 +3234,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                           forwardedRef={null}
                           style={
                             Object {
-                              "display": "inline",
+                              "minWidth": "120px",
                             }
                           }
                           title="Number of assays in experiment"
@@ -3243,7 +3243,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                             className="button sc-ifAKCX dfoKxv"
                             style={
                               Object {
-                                "display": "inline",
+                                "minWidth": "120px",
                               }
                             }
                             title="Number of assays in experiment"
@@ -3537,7 +3537,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         className="button"
                         style={
                           Object {
-                            "display": "inline",
+                            "minWidth": "120px",
                           }
                         }
                         title="Number of assays in experiment"
@@ -3584,7 +3584,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                           forwardedRef={null}
                           style={
                             Object {
-                              "display": "inline",
+                              "minWidth": "120px",
                             }
                           }
                           title="Number of assays in experiment"
@@ -3593,7 +3593,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                             className="button sc-ifAKCX dfoKxv"
                             style={
                               Object {
-                                "display": "inline",
+                                "minWidth": "120px",
                               }
                             }
                             title="Number of assays in experiment"
@@ -3888,7 +3888,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         className="button"
                         style={
                           Object {
-                            "display": "inline",
+                            "minWidth": "120px",
                           }
                         }
                         title="Number of assays in experiment"
@@ -3935,7 +3935,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                           forwardedRef={null}
                           style={
                             Object {
-                              "display": "inline",
+                              "minWidth": "120px",
                             }
                           }
                           title="Number of assays in experiment"
@@ -3944,7 +3944,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                             className="button sc-ifAKCX dfoKxv"
                             style={
                               Object {
-                                "display": "inline",
+                                "minWidth": "120px",
                               }
                             }
                             title="Number of assays in experiment"
@@ -4247,7 +4247,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         className="button"
                         style={
                           Object {
-                            "display": "inline",
+                            "minWidth": "120px",
                           }
                         }
                         title="Number of assays in experiment"
@@ -4294,7 +4294,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                           forwardedRef={null}
                           style={
                             Object {
-                              "display": "inline",
+                              "minWidth": "120px",
                             }
                           }
                           title="Number of assays in experiment"
@@ -4303,7 +4303,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                             className="button sc-ifAKCX dfoKxv"
                             style={
                               Object {
-                                "display": "inline",
+                                "minWidth": "120px",
                               }
                             }
                             title="Number of assays in experiment"
@@ -4606,7 +4606,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         className="button"
                         style={
                           Object {
-                            "display": "inline",
+                            "minWidth": "120px",
                           }
                         }
                         title="Number of assays in experiment"
@@ -4653,7 +4653,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                           forwardedRef={null}
                           style={
                             Object {
-                              "display": "inline",
+                              "minWidth": "120px",
                             }
                           }
                           title="Number of assays in experiment"
@@ -4662,7 +4662,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                             className="button sc-ifAKCX dfoKxv"
                             style={
                               Object {
-                                "display": "inline",
+                                "minWidth": "120px",
                               }
                             }
                             title="Number of assays in experiment"
@@ -4964,7 +4964,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                         className="button"
                         style={
                           Object {
-                            "display": "inline",
+                            "minWidth": "120px",
                           }
                         }
                         title="Number of assays in experiment"
@@ -5011,7 +5011,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                           forwardedRef={null}
                           style={
                             Object {
-                              "display": "inline",
+                              "minWidth": "120px",
                             }
                           }
                           title="Number of assays in experiment"
@@ -5020,7 +5020,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                             className="button sc-ifAKCX dfoKxv"
                             style={
                               Object {
-                                "display": "inline",
+                                "minWidth": "120px",
                               }
                             }
                             title="Number of assays in experiment"
@@ -5388,7 +5388,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                         className="button"
                         style={
                           Object {
-                            "display": "inline",
+                            "minWidth": "120px",
                           }
                         }
                         title="Number of assays in experiment"
@@ -5435,7 +5435,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                           forwardedRef={null}
                           style={
                             Object {
-                              "display": "inline",
+                              "minWidth": "120px",
                             }
                           }
                           title="Number of assays in experiment"
@@ -5444,7 +5444,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                             className="button sc-ifAKCX dfoKxv"
                             style={
                               Object {
-                                "display": "inline",
+                                "minWidth": "120px",
                               }
                             }
                             title="Number of assays in experiment"
@@ -5650,7 +5650,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                         className="button"
                         style={
                           Object {
-                            "display": "inline",
+                            "minWidth": "120px",
                           }
                         }
                         title="Number of assays in experiment"
@@ -5697,7 +5697,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                           forwardedRef={null}
                           style={
                             Object {
-                              "display": "inline",
+                              "minWidth": "120px",
                             }
                           }
                           title="Number of assays in experiment"
@@ -5706,7 +5706,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                             className="button sc-ifAKCX dfoKxv"
                             style={
                               Object {
-                                "display": "inline",
+                                "minWidth": "120px",
                               }
                             }
                             title="Number of assays in experiment"
@@ -5911,7 +5911,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                         className="button"
                         style={
                           Object {
-                            "display": "inline",
+                            "minWidth": "120px",
                           }
                         }
                         title="Number of assays in experiment"
@@ -5958,7 +5958,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                           forwardedRef={null}
                           style={
                             Object {
-                              "display": "inline",
+                              "minWidth": "120px",
                             }
                           }
                           title="Number of assays in experiment"
@@ -5967,7 +5967,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                             className="button sc-ifAKCX dfoKxv"
                             style={
                               Object {
-                                "display": "inline",
+                                "minWidth": "120px",
                               }
                             }
                             title="Number of assays in experiment"
