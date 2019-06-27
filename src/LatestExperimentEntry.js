@@ -38,7 +38,7 @@ const LatestExperimentEntry = (props) => {
       }
 
       <TableCellDiv className={`hide-for-small-only`}>
-        <FooSpan className={`button`} backgroundColor={`gray`} style={{display:`inline`}} title={`Number of assays in experiment`}>
+        <FooSpan className={`button`} backgroundColor={`gray`} style={{minWidth:`120px`}} title={`Number of assays in experiment`}>
           { numberOfAssays.toString().replace(/\B(?=(\d{3})+(?!\d))/g, `,`) } assays
         </FooSpan>
       </TableCellDiv>

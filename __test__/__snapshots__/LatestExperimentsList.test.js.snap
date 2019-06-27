@@ -325,7 +325,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                   className="button"
                   style={
                     Object {
-                      "display": "inline",
+                      "minWidth": "120px",
                     }
                   }
                   title="Number of assays in experiment"
@@ -372,7 +372,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                     forwardedRef={null}
                     style={
                       Object {
-                        "display": "inline",
+                        "minWidth": "120px",
                       }
                     }
                     title="Number of assays in experiment"
@@ -381,7 +381,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                       className="button sc-bwzfXH hzjPfe"
                       style={
                         Object {
-                          "display": "inline",
+                          "minWidth": "120px",
                         }
                       }
                       title="Number of assays in experiment"
@@ -675,7 +675,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                   className="button"
                   style={
                     Object {
-                      "display": "inline",
+                      "minWidth": "120px",
                     }
                   }
                   title="Number of assays in experiment"
@@ -722,7 +722,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                     forwardedRef={null}
                     style={
                       Object {
-                        "display": "inline",
+                        "minWidth": "120px",
                       }
                     }
                     title="Number of assays in experiment"
@@ -731,7 +731,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                       className="button sc-bwzfXH hzjPfe"
                       style={
                         Object {
-                          "display": "inline",
+                          "minWidth": "120px",
                         }
                       }
                       title="Number of assays in experiment"
@@ -1025,7 +1025,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                   className="button"
                   style={
                     Object {
-                      "display": "inline",
+                      "minWidth": "120px",
                     }
                   }
                   title="Number of assays in experiment"
@@ -1072,7 +1072,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                     forwardedRef={null}
                     style={
                       Object {
-                        "display": "inline",
+                        "minWidth": "120px",
                       }
                     }
                     title="Number of assays in experiment"
@@ -1081,7 +1081,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                       className="button sc-bwzfXH hzjPfe"
                       style={
                         Object {
-                          "display": "inline",
+                          "minWidth": "120px",
                         }
                       }
                       title="Number of assays in experiment"
@@ -1375,7 +1375,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                   className="button"
                   style={
                     Object {
-                      "display": "inline",
+                      "minWidth": "120px",
                     }
                   }
                   title="Number of assays in experiment"
@@ -1422,7 +1422,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                     forwardedRef={null}
                     style={
                       Object {
-                        "display": "inline",
+                        "minWidth": "120px",
                       }
                     }
                     title="Number of assays in experiment"
@@ -1431,7 +1431,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                       className="button sc-bwzfXH hzjPfe"
                       style={
                         Object {
-                          "display": "inline",
+                          "minWidth": "120px",
                         }
                       }
                       title="Number of assays in experiment"
@@ -1726,7 +1726,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                   className="button"
                   style={
                     Object {
-                      "display": "inline",
+                      "minWidth": "120px",
                     }
                   }
                   title="Number of assays in experiment"
@@ -1773,7 +1773,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                     forwardedRef={null}
                     style={
                       Object {
-                        "display": "inline",
+                        "minWidth": "120px",
                       }
                     }
                     title="Number of assays in experiment"
@@ -1782,7 +1782,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                       className="button sc-bwzfXH hzjPfe"
                       style={
                         Object {
-                          "display": "inline",
+                          "minWidth": "120px",
                         }
                       }
                       title="Number of assays in experiment"
@@ -2085,7 +2085,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                   className="button"
                   style={
                     Object {
-                      "display": "inline",
+                      "minWidth": "120px",
                     }
                   }
                   title="Number of assays in experiment"
@@ -2132,7 +2132,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                     forwardedRef={null}
                     style={
                       Object {
-                        "display": "inline",
+                        "minWidth": "120px",
                       }
                     }
                     title="Number of assays in experiment"
@@ -2141,7 +2141,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                       className="button sc-bwzfXH hzjPfe"
                       style={
                         Object {
-                          "display": "inline",
+                          "minWidth": "120px",
                         }
                       }
                       title="Number of assays in experiment"
@@ -2444,7 +2444,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                   className="button"
                   style={
                     Object {
-                      "display": "inline",
+                      "minWidth": "120px",
                     }
                   }
                   title="Number of assays in experiment"
@@ -2491,7 +2491,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                     forwardedRef={null}
                     style={
                       Object {
-                        "display": "inline",
+                        "minWidth": "120px",
                       }
                     }
                     title="Number of assays in experiment"
@@ -2500,7 +2500,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                       className="button sc-bwzfXH hzjPfe"
                       style={
                         Object {
-                          "display": "inline",
+                          "minWidth": "120px",
                         }
                       }
                       title="Number of assays in experiment"
@@ -2802,7 +2802,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                   className="button"
                   style={
                     Object {
-                      "display": "inline",
+                      "minWidth": "120px",
                     }
                   }
                   title="Number of assays in experiment"
@@ -2849,7 +2849,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                     forwardedRef={null}
                     style={
                       Object {
-                        "display": "inline",
+                        "minWidth": "120px",
                       }
                     }
                     title="Number of assays in experiment"
@@ -2858,7 +2858,7 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                       className="button sc-bwzfXH hzjPfe"
                       style={
                         Object {
-                          "display": "inline",
+                          "minWidth": "120px",
                         }
                       }
                       title="Number of assays in experiment"
@@ -3133,7 +3133,7 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                   className="button"
                   style={
                     Object {
-                      "display": "inline",
+                      "minWidth": "120px",
                     }
                   }
                   title="Number of assays in experiment"
@@ -3180,7 +3180,7 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                     forwardedRef={null}
                     style={
                       Object {
-                        "display": "inline",
+                        "minWidth": "120px",
                       }
                     }
                     title="Number of assays in experiment"
@@ -3189,7 +3189,7 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                       className="button sc-bwzfXH hzjPfe"
                       style={
                         Object {
-                          "display": "inline",
+                          "minWidth": "120px",
                         }
                       }
                       title="Number of assays in experiment"
@@ -3395,7 +3395,7 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                   className="button"
                   style={
                     Object {
-                      "display": "inline",
+                      "minWidth": "120px",
                     }
                   }
                   title="Number of assays in experiment"
@@ -3442,7 +3442,7 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                     forwardedRef={null}
                     style={
                       Object {
-                        "display": "inline",
+                        "minWidth": "120px",
                       }
                     }
                     title="Number of assays in experiment"
@@ -3451,7 +3451,7 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                       className="button sc-bwzfXH hzjPfe"
                       style={
                         Object {
-                          "display": "inline",
+                          "minWidth": "120px",
                         }
                       }
                       title="Number of assays in experiment"
@@ -3656,7 +3656,7 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                   className="button"
                   style={
                     Object {
-                      "display": "inline",
+                      "minWidth": "120px",
                     }
                   }
                   title="Number of assays in experiment"
@@ -3703,7 +3703,7 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                     forwardedRef={null}
                     style={
                       Object {
-                        "display": "inline",
+                        "minWidth": "120px",
                       }
                     }
                     title="Number of assays in experiment"
@@ -3712,7 +3712,7 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                       className="button sc-bwzfXH hzjPfe"
                       style={
                         Object {
-                          "display": "inline",
+                          "minWidth": "120px",
                         }
                       }
                       title="Number of assays in experiment"
