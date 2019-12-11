@@ -12,7 +12,7 @@ const TableCellDiv = styled.div`
 
 const FooSpan = styled.span`
   margin-bottom: 0px;
-  width: 120px;
+  width: 140px;
   cursor: default;
   background-color: ${props => props.backgroundColor};
   :hover{
