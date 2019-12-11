@@ -1,5 +1,5 @@
 {
-  "name": "experiments-summary-panel",
+  "name": "@ebi-gene-expression-group/experiments-summary-panel",
   "version": "1.0.0-snapshot",
   "description": "A package that renders links to experiments in (Single Cell) Expression Atlas in style.",
   "main": "lib/index.js",
