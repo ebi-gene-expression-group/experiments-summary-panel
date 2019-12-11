@@ -43,29 +43,29 @@
   "dependencies": {
     "atlas-homepage-cards": "^2.1.4",
     "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "styled-components": "^4.3.2",
-    "urijs": "^1.19.1"
+    "react": "^16.12.0",
+    "styled-components": "^4.4.1",
+    "urijs": "^1.19.2"
   },
   "devDependencies": {
-    "@babel/cli": "^7.4.4",
-    "@babel/core": "^7.4.5",
-    "@babel/polyfill": "^7.4.4",
-    "@babel/preset-env": "^7.4.5",
-    "@babel/preset-react": "^7.0.0",
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/polyfill": "^7.7.0",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/preset-react": "^7.7.4",
     "babel-loader": "^8.0.6",
     "clean-webpack-plugin": "^3.0.0",
-    "coveralls": "^3.0.4",
+    "coveralls": "^3.0.9",
     "enzyme": "^3.10.0",
-    "enzyme-adapter-react-16": "^1.14.0",
-    "eslint": "^6.0.1",
+    "enzyme-adapter-react-16": "^1.15.1",
+    "eslint": "^6.7.2",
     "eslint-config-gene-expression": "^0.5.0",
-    "jest": "^24.8.0",
-    "jest-environment-enzyme": "^7.0.2",
-    "jest-enzyme": "^7.0.2",
-    "react-dom": "^16.8.6",
-    "webpack": "^4.35.0",
-    "webpack-cli": "^3.3.5",
-    "webpack-dev-server": "^3.7.2"
+    "jest": "^24.9.0",
+    "jest-environment-enzyme": "^7.1.2",
+    "jest-enzyme": "^7.1.2",
+    "react-dom": "^16.12.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
   }
 }
