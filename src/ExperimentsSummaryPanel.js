@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import ResponsiveCardsRow from 'atlas-homepage-cards'
+import ResponsiveCardsRow from '@ebi-gene-expression-group/atlas-homepage-cards'
 import LatestExperimentsList from './LatestExperimentsList'
 
 

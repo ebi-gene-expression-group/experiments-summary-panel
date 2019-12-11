@@ -41,7 +41,7 @@
     "url": "https://github.com/ebi-gene-expression-group/atlas-homepage-cards"
   },
   "dependencies": {
-    "atlas-homepage-cards": "^2.1.4",
+    "@ebi-gene-expression-group/atlas-homepage-cards": "^2.2.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "styled-components": "^4.4.1",
@@ -53,13 +53,13 @@
     "@babel/polyfill": "^7.7.0",
     "@babel/preset-env": "^7.7.6",
     "@babel/preset-react": "^7.7.4",
+    "@ebi-gene-expression-group/eslint-config-gene-expression": "^0.6.0",
     "babel-loader": "^8.0.6",
     "clean-webpack-plugin": "^3.0.0",
     "coveralls": "^3.0.9",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
     "eslint": "^6.7.2",
-    "eslint-config-gene-expression": "^0.5.0",
     "jest": "^24.9.0",
     "jest-environment-enzyme": "^7.1.2",
     "jest-enzyme": "^7.1.2",
