@@ -195,131 +195,39 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
           }
         >
           <styled.div>
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
             >
-              <div
-                className="sc-bdVaJa jKchCj"
+              <styled.span
+                backgroundColor="#007c82"
+                className="button"
               >
-                <styled.span
-                  backgroundColor="#007c82"
-                  className="button"
+                <span
+                  className="sc-AxirZ fNRiha button"
                 >
-                  <StyledComponent
-                    backgroundColor="#007c82"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                  >
-                    <span
-                      className="sc-bwzfXH fsauPP button"
-                    >
-                      Differential
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  Differential
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
+              <styled.span
+                backgroundColor="gray"
+                className="button"
+                style={
+                  Object {
+                    "minWidth": "120px",
+                  }
+                }
+                title="Number of assays in experiment"
               >
-                <styled.span
-                  backgroundColor="gray"
-                  className="button"
+                <span
+                  className="sc-AxirZ bNwsDi button"
                   style={
                     Object {
                       "minWidth": "120px",
@@ -327,119 +235,31 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                   }
                   title="Number of assays in experiment"
                 >
-                  <StyledComponent
-                    backgroundColor="gray"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                    style={
-                      Object {
-                        "minWidth": "120px",
-                      }
-                    }
-                    title="Number of assays in experiment"
-                  >
-                    <span
-                      className="sc-bwzfXH eHgthR button"
-                      style={
-                        Object {
-                          "minWidth": "120px",
-                        }
-                      }
-                      title="Number of assays in experiment"
-                    >
-                      49
-                       assays
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  49
+                   assays
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
-              >
-                <a
-                  className="button"
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-40611"
-                  style={
-                    Object {
-                      "backgroundColor": "#3497C5",
-                      "marginBottom": "0px",
-                    }
+              <a
+                className="button"
+                href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-40611"
+                style={
+                  Object {
+                    "backgroundColor": "#3497C5",
+                    "marginBottom": "0px",
                   }
-                >
-                  Results
-                </a>
-              </div>
-            </StyledComponent>
+                }
+              >
+                Results
+              </a>
+            </div>
           </styled.div>
           <styled.div
             style={
@@ -448,63 +268,28 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
               }
             }
           >
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
               style={
                 Object {
                   "paddingLeft": "1rem",
                 }
               }
             >
-              <div
-                className="sc-bdVaJa jKchCj"
-                style={
-                  Object {
-                    "paddingLeft": "1rem",
-                  }
-                }
+              <small>
+                06-03-2019
+              </small>
+              <br />
+              <a
+                href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-40611"
               >
-                <small>
-                  06-03-2019
-                </small>
-                <br />
-                <a
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-40611"
-                >
-                  Transcription profiling by array of parotid tissue from Primary Sjögren’s Syndrome and controls
-                   – 
-                  <i>
-                    Homo sapiens
-                  </i>
-                </a>
-              </div>
-            </StyledComponent>
+                Transcription profiling by array of parotid tissue from Primary Sjögren’s Syndrome and controls
+                 – 
+                <i>
+                  Homo sapiens
+                </i>
+              </a>
+            </div>
           </styled.div>
         </div>
       </LatestExperimentEntry>
@@ -539,131 +324,39 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
           }
         >
           <styled.div>
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
             >
-              <div
-                className="sc-bdVaJa jKchCj"
+              <styled.span
+                backgroundColor="#007c82"
+                className="button"
               >
-                <styled.span
-                  backgroundColor="#007c82"
-                  className="button"
+                <span
+                  className="sc-AxirZ fNRiha button"
                 >
-                  <StyledComponent
-                    backgroundColor="#007c82"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                  >
-                    <span
-                      className="sc-bwzfXH fsauPP button"
-                    >
-                      Baseline
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  Baseline
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
+              <styled.span
+                backgroundColor="gray"
+                className="button"
+                style={
+                  Object {
+                    "minWidth": "120px",
+                  }
+                }
+                title="Number of assays in experiment"
               >
-                <styled.span
-                  backgroundColor="gray"
-                  className="button"
+                <span
+                  className="sc-AxirZ bNwsDi button"
                   style={
                     Object {
                       "minWidth": "120px",
@@ -671,119 +364,31 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                   }
                   title="Number of assays in experiment"
                 >
-                  <StyledComponent
-                    backgroundColor="gray"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                    style={
-                      Object {
-                        "minWidth": "120px",
-                      }
-                    }
-                    title="Number of assays in experiment"
-                  >
-                    <span
-                      className="sc-bwzfXH eHgthR button"
-                      style={
-                        Object {
-                          "minWidth": "120px",
-                        }
-                      }
-                      title="Number of assays in experiment"
-                    >
-                      11
-                       assays
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  11
+                   assays
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
-              >
-                <a
-                  className="button"
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-451"
-                  style={
-                    Object {
-                      "backgroundColor": "#3497C5",
-                      "marginBottom": "0px",
-                    }
+              <a
+                className="button"
+                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-451"
+                style={
+                  Object {
+                    "backgroundColor": "#3497C5",
+                    "marginBottom": "0px",
                   }
-                >
-                  Results
-                </a>
-              </div>
-            </StyledComponent>
+                }
+              >
+                Results
+              </a>
+            </div>
           </styled.div>
           <styled.div
             style={
@@ -792,63 +397,28 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
               }
             }
           >
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
               style={
                 Object {
                   "paddingLeft": "1rem",
                 }
               }
             >
-              <div
-                className="sc-bdVaJa jKchCj"
-                style={
-                  Object {
-                    "paddingLeft": "1rem",
-                  }
-                }
+              <small>
+                06-10-2018
+              </small>
+              <br />
+              <a
+                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-451"
               >
-                <small>
-                  06-10-2018
-                </small>
-                <br />
-                <a
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-451"
-                >
-                  RNA-Seq of Schistosoma mansoni (flatworms) larva and adult individuals at different life-stages
-                   – 
-                  <i>
-                    Schistosoma mansoni
-                  </i>
-                </a>
-              </div>
-            </StyledComponent>
+                RNA-Seq of Schistosoma mansoni (flatworms) larva and adult individuals at different life-stages
+                 – 
+                <i>
+                  Schistosoma mansoni
+                </i>
+              </a>
+            </div>
           </styled.div>
         </div>
       </LatestExperimentEntry>
@@ -883,131 +453,39 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
           }
         >
           <styled.div>
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
             >
-              <div
-                className="sc-bdVaJa jKchCj"
+              <styled.span
+                backgroundColor="#007c82"
+                className="button"
               >
-                <styled.span
-                  backgroundColor="#007c82"
-                  className="button"
+                <span
+                  className="sc-AxirZ fNRiha button"
                 >
-                  <StyledComponent
-                    backgroundColor="#007c82"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                  >
-                    <span
-                      className="sc-bwzfXH fsauPP button"
-                    >
-                      Baseline
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  Baseline
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
+              <styled.span
+                backgroundColor="gray"
+                className="button"
+                style={
+                  Object {
+                    "minWidth": "120px",
+                  }
+                }
+                title="Number of assays in experiment"
               >
-                <styled.span
-                  backgroundColor="gray"
-                  className="button"
+                <span
+                  className="sc-AxirZ bNwsDi button"
                   style={
                     Object {
                       "minWidth": "120px",
@@ -1015,119 +493,31 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                   }
                   title="Number of assays in experiment"
                 >
-                  <StyledComponent
-                    backgroundColor="gray"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                    style={
-                      Object {
-                        "minWidth": "120px",
-                      }
-                    }
-                    title="Number of assays in experiment"
-                  >
-                    <span
-                      className="sc-bwzfXH eHgthR button"
-                      style={
-                        Object {
-                          "minWidth": "120px",
-                        }
-                      }
-                      title="Number of assays in experiment"
-                    >
-                      200
-                       assays
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  200
+                   assays
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
-              >
-                <a
-                  className="button"
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2836"
-                  style={
-                    Object {
-                      "backgroundColor": "#3497C5",
-                      "marginBottom": "0px",
-                    }
+              <a
+                className="button"
+                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2836"
+                style={
+                  Object {
+                    "backgroundColor": "#3497C5",
+                    "marginBottom": "0px",
                   }
-                >
-                  Results
-                </a>
-              </div>
-            </StyledComponent>
+                }
+              >
+                Results
+              </a>
+            </div>
           </styled.div>
           <styled.div
             style={
@@ -1136,63 +526,28 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
               }
             }
           >
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
               style={
                 Object {
                   "paddingLeft": "1rem",
                 }
               }
             >
-              <div
-                className="sc-bdVaJa jKchCj"
-                style={
-                  Object {
-                    "paddingLeft": "1rem",
-                  }
-                }
+              <small>
+                05-10-2018
+              </small>
+              <br />
+              <a
+                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2836"
               >
-                <small>
-                  05-10-2018
-                </small>
-                <br />
-                <a
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2836"
-                >
-                  RNA-seq of coding RNA from tissue samples of 122 human individuals representing 32 different tissues
-                   – 
-                  <i>
-                    Homo sapiens
-                  </i>
-                </a>
-              </div>
-            </StyledComponent>
+                RNA-seq of coding RNA from tissue samples of 122 human individuals representing 32 different tissues
+                 – 
+                <i>
+                  Homo sapiens
+                </i>
+              </a>
+            </div>
           </styled.div>
         </div>
       </LatestExperimentEntry>
@@ -1227,131 +582,39 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
           }
         >
           <styled.div>
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
             >
-              <div
-                className="sc-bdVaJa jKchCj"
+              <styled.span
+                backgroundColor="#007c82"
+                className="button"
               >
-                <styled.span
-                  backgroundColor="#007c82"
-                  className="button"
+                <span
+                  className="sc-AxirZ fNRiha button"
                 >
-                  <StyledComponent
-                    backgroundColor="#007c82"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                  >
-                    <span
-                      className="sc-bwzfXH fsauPP button"
-                    >
-                      Baseline
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  Baseline
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
+              <styled.span
+                backgroundColor="gray"
+                className="button"
+                style={
+                  Object {
+                    "minWidth": "120px",
+                  }
+                }
+                title="Number of assays in experiment"
               >
-                <styled.span
-                  backgroundColor="gray"
-                  className="button"
+                <span
+                  className="sc-AxirZ bNwsDi button"
                   style={
                     Object {
                       "minWidth": "120px",
@@ -1359,119 +622,31 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                   }
                   title="Number of assays in experiment"
                 >
-                  <StyledComponent
-                    backgroundColor="gray"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                    style={
-                      Object {
-                        "minWidth": "120px",
-                      }
-                    }
-                    title="Number of assays in experiment"
-                  >
-                    <span
-                      className="sc-bwzfXH eHgthR button"
-                      style={
-                        Object {
-                          "minWidth": "120px",
-                        }
-                      }
-                      title="Number of assays in experiment"
-                    >
-                      11
-                       assays
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  11
+                   assays
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
-              >
-                <a
-                  className="button"
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-4401"
-                  style={
-                    Object {
-                      "backgroundColor": "#3497C5",
-                      "marginBottom": "0px",
-                    }
+              <a
+                className="button"
+                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-4401"
+                style={
+                  Object {
+                    "backgroundColor": "#3497C5",
+                    "marginBottom": "0px",
                   }
-                >
-                  Results
-                </a>
-              </div>
-            </StyledComponent>
+                }
+              >
+                Results
+              </a>
+            </div>
           </styled.div>
           <styled.div
             style={
@@ -1480,63 +655,28 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
               }
             }
           >
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
               style={
                 Object {
                   "paddingLeft": "1rem",
                 }
               }
             >
-              <div
-                className="sc-bdVaJa jKchCj"
-                style={
-                  Object {
-                    "paddingLeft": "1rem",
-                  }
-                }
+              <small>
+                05-10-2018
+              </small>
+              <br />
+              <a
+                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-4401"
               >
-                <small>
-                  05-10-2018
-                </small>
-                <br />
-                <a
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-4401"
-                >
-                  Transcription profiling by high throughput sequencing of different tissues from Brachypodium distachyon (Bd21 inbred line)
-                   – 
-                  <i>
-                    Brachypodium distachyon
-                  </i>
-                </a>
-              </div>
-            </StyledComponent>
+                Transcription profiling by high throughput sequencing of different tissues from Brachypodium distachyon (Bd21 inbred line)
+                 – 
+                <i>
+                  Brachypodium distachyon
+                </i>
+              </a>
+            </div>
           </styled.div>
         </div>
       </LatestExperimentEntry>
@@ -1572,131 +712,39 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
           }
         >
           <styled.div>
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
             >
-              <div
-                className="sc-bdVaJa jKchCj"
+              <styled.span
+                backgroundColor="#007c82"
+                className="button"
               >
-                <styled.span
-                  backgroundColor="#007c82"
-                  className="button"
+                <span
+                  className="sc-AxirZ fNRiha button"
                 >
-                  <StyledComponent
-                    backgroundColor="#007c82"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                  >
-                    <span
-                      className="sc-bwzfXH fsauPP button"
-                    >
-                      Differential
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  Differential
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
+              <styled.span
+                backgroundColor="gray"
+                className="button"
+                style={
+                  Object {
+                    "minWidth": "120px",
+                  }
+                }
+                title="Number of assays in experiment"
               >
-                <styled.span
-                  backgroundColor="gray"
-                  className="button"
+                <span
+                  className="sc-AxirZ bNwsDi button"
                   style={
                     Object {
                       "minWidth": "120px",
@@ -1704,119 +752,31 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                   }
                   title="Number of assays in experiment"
                 >
-                  <StyledComponent
-                    backgroundColor="gray"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                    style={
-                      Object {
-                        "minWidth": "120px",
-                      }
-                    }
-                    title="Number of assays in experiment"
-                  >
-                    <span
-                      className="sc-bwzfXH eHgthR button"
-                      style={
-                        Object {
-                          "minWidth": "120px",
-                        }
-                      }
-                      title="Number of assays in experiment"
-                    >
-                      30
-                       assays
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  30
+                   assays
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
-              >
-                <a
-                  className="button"
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-1913"
-                  style={
-                    Object {
-                      "backgroundColor": "#3497C5",
-                      "marginBottom": "0px",
-                    }
+              <a
+                className="button"
+                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-1913"
+                style={
+                  Object {
+                    "backgroundColor": "#3497C5",
+                    "marginBottom": "0px",
                   }
-                >
-                  Results
-                </a>
-              </div>
-            </StyledComponent>
+                }
+              >
+                Results
+              </a>
+            </div>
           </styled.div>
           <styled.div
             style={
@@ -1825,63 +785,28 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
               }
             }
           >
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
               style={
                 Object {
                   "paddingLeft": "1rem",
                 }
               }
             >
-              <div
-                className="sc-bdVaJa jKchCj"
-                style={
-                  Object {
-                    "paddingLeft": "1rem",
-                  }
-                }
+              <small>
+                04-10-2018
+              </small>
+              <br />
+              <a
+                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-1913"
               >
-                <small>
-                  04-10-2018
-                </small>
-                <br />
-                <a
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-1913"
-                >
-                  Salt stress in salt sensitive Oryza sativa Indica group IR29 
-                   – 
-                  <i>
-                    Oryza sativa Indica group
-                  </i>
-                </a>
-              </div>
-            </StyledComponent>
+                Salt stress in salt sensitive Oryza sativa Indica group IR29 
+                 – 
+                <i>
+                  Oryza sativa Indica group
+                </i>
+              </a>
+            </div>
           </styled.div>
         </div>
       </LatestExperimentEntry>
@@ -1925,131 +850,39 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
           }
         >
           <styled.div>
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
             >
-              <div
-                className="sc-bdVaJa jKchCj"
+              <styled.span
+                backgroundColor="#007c82"
+                className="button"
               >
-                <styled.span
-                  backgroundColor="#007c82"
-                  className="button"
+                <span
+                  className="sc-AxirZ fNRiha button"
                 >
-                  <StyledComponent
-                    backgroundColor="#007c82"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                  >
-                    <span
-                      className="sc-bwzfXH fsauPP button"
-                    >
-                      Differential
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  Differential
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
+              <styled.span
+                backgroundColor="gray"
+                className="button"
+                style={
+                  Object {
+                    "minWidth": "120px",
+                  }
+                }
+                title="Number of assays in experiment"
               >
-                <styled.span
-                  backgroundColor="gray"
-                  className="button"
+                <span
+                  className="sc-AxirZ bNwsDi button"
                   style={
                     Object {
                       "minWidth": "120px",
@@ -2057,119 +890,31 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                   }
                   title="Number of assays in experiment"
                 >
-                  <StyledComponent
-                    backgroundColor="gray"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                    style={
-                      Object {
-                        "minWidth": "120px",
-                      }
-                    }
-                    title="Number of assays in experiment"
-                  >
-                    <span
-                      className="sc-bwzfXH eHgthR button"
-                      style={
-                        Object {
-                          "minWidth": "120px",
-                        }
-                      }
-                      title="Number of assays in experiment"
-                    >
-                      89
-                       assays
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  89
+                   assays
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
-              >
-                <a
-                  className="button"
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-MAXD-6"
-                  style={
-                    Object {
-                      "backgroundColor": "#3497C5",
-                      "marginBottom": "0px",
-                    }
+              <a
+                className="button"
+                href="https://www.ebi.ac.uk/gxa/experiments/E-MAXD-6"
+                style={
+                  Object {
+                    "backgroundColor": "#3497C5",
+                    "marginBottom": "0px",
                   }
-                >
-                  Results
-                </a>
-              </div>
-            </StyledComponent>
+                }
+              >
+                Results
+              </a>
+            </div>
           </styled.div>
           <styled.div
             style={
@@ -2178,63 +923,28 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
               }
             }
           >
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
               style={
                 Object {
                   "paddingLeft": "1rem",
                 }
               }
             >
-              <div
-                className="sc-bdVaJa jKchCj"
-                style={
-                  Object {
-                    "paddingLeft": "1rem",
-                  }
-                }
+              <small>
+                04-10-2018
+              </small>
+              <br />
+              <a
+                href="https://www.ebi.ac.uk/gxa/experiments/E-MAXD-6"
               >
-                <small>
-                  04-10-2018
-                </small>
-                <br />
-                <a
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-MAXD-6"
-                >
-                  Transcription profiling by array of Drosophila larvae after parasitoid attack
-                   – 
-                  <i>
-                    Drosophila melanogaster
-                  </i>
-                </a>
-              </div>
-            </StyledComponent>
+                Transcription profiling by array of Drosophila larvae after parasitoid attack
+                 – 
+                <i>
+                  Drosophila melanogaster
+                </i>
+              </a>
+            </div>
           </styled.div>
         </div>
       </LatestExperimentEntry>
@@ -2278,131 +988,39 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
           }
         >
           <styled.div>
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
             >
-              <div
-                className="sc-bdVaJa jKchCj"
+              <styled.span
+                backgroundColor="#007c82"
+                className="button"
               >
-                <styled.span
-                  backgroundColor="#007c82"
-                  className="button"
+                <span
+                  className="sc-AxirZ fNRiha button"
                 >
-                  <StyledComponent
-                    backgroundColor="#007c82"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                  >
-                    <span
-                      className="sc-bwzfXH fsauPP button"
-                    >
-                      Differential
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  Differential
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
+              <styled.span
+                backgroundColor="gray"
+                className="button"
+                style={
+                  Object {
+                    "minWidth": "120px",
+                  }
+                }
+                title="Number of assays in experiment"
               >
-                <styled.span
-                  backgroundColor="gray"
-                  className="button"
+                <span
+                  className="sc-AxirZ bNwsDi button"
                   style={
                     Object {
                       "minWidth": "120px",
@@ -2410,119 +1028,31 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                   }
                   title="Number of assays in experiment"
                 >
-                  <StyledComponent
-                    backgroundColor="gray"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                    style={
-                      Object {
-                        "minWidth": "120px",
-                      }
-                    }
-                    title="Number of assays in experiment"
-                  >
-                    <span
-                      className="sc-bwzfXH eHgthR button"
-                      style={
-                        Object {
-                          "minWidth": "120px",
-                        }
-                      }
-                      title="Number of assays in experiment"
-                    >
-                      12
-                       assays
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  12
+                   assays
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
-              >
-                <a
-                  className="button"
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-MEXP-1810"
-                  style={
-                    Object {
-                      "backgroundColor": "#3497C5",
-                      "marginBottom": "0px",
-                    }
+              <a
+                className="button"
+                href="https://www.ebi.ac.uk/gxa/experiments/E-MEXP-1810"
+                style={
+                  Object {
+                    "backgroundColor": "#3497C5",
+                    "marginBottom": "0px",
                   }
-                >
-                  Results
-                </a>
-              </div>
-            </StyledComponent>
+                }
+              >
+                Results
+              </a>
+            </div>
           </styled.div>
           <styled.div
             style={
@@ -2531,63 +1061,28 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
               }
             }
           >
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
               style={
                 Object {
                   "paddingLeft": "1rem",
                 }
               }
             >
-              <div
-                className="sc-bdVaJa jKchCj"
-                style={
-                  Object {
-                    "paddingLeft": "1rem",
-                  }
-                }
+              <small>
+                25-09-2018
+              </small>
+              <br />
+              <a
+                href="https://www.ebi.ac.uk/gxa/experiments/E-MEXP-1810"
               >
-                <small>
-                  25-09-2018
-                </small>
-                <br />
-                <a
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-MEXP-1810"
-                >
-                  Transcription profiling by array of C. elegans isolates treated with dauer larva-inducing pheromone
-                   – 
-                  <i>
-                    Caenorhabditis elegans
-                  </i>
-                </a>
-              </div>
-            </StyledComponent>
+                Transcription profiling by array of C. elegans isolates treated with dauer larva-inducing pheromone
+                 – 
+                <i>
+                  Caenorhabditis elegans
+                </i>
+              </a>
+            </div>
           </styled.div>
         </div>
       </LatestExperimentEntry>
@@ -2630,131 +1125,39 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
           }
         >
           <styled.div>
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
             >
-              <div
-                className="sc-bdVaJa jKchCj"
+              <styled.span
+                backgroundColor="#007c82"
+                className="button"
               >
-                <styled.span
-                  backgroundColor="#007c82"
-                  className="button"
+                <span
+                  className="sc-AxirZ fNRiha button"
                 >
-                  <StyledComponent
-                    backgroundColor="#007c82"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                  >
-                    <span
-                      className="sc-bwzfXH fsauPP button"
-                    >
-                      Differential
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  Differential
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
+              <styled.span
+                backgroundColor="gray"
+                className="button"
+                style={
+                  Object {
+                    "minWidth": "120px",
+                  }
+                }
+                title="Number of assays in experiment"
               >
-                <styled.span
-                  backgroundColor="gray"
-                  className="button"
+                <span
+                  className="sc-AxirZ bNwsDi button"
                   style={
                     Object {
                       "minWidth": "120px",
@@ -2762,119 +1165,31 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
                   }
                   title="Number of assays in experiment"
                 >
-                  <StyledComponent
-                    backgroundColor="gray"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                    style={
-                      Object {
-                        "minWidth": "120px",
-                      }
-                    }
-                    title="Number of assays in experiment"
-                  >
-                    <span
-                      className="sc-bwzfXH eHgthR button"
-                      style={
-                        Object {
-                          "minWidth": "120px",
-                        }
-                      }
-                      title="Number of assays in experiment"
-                    >
-                      12
-                       assays
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  12
+                   assays
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
-              >
-                <a
-                  className="button"
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-43049"
-                  style={
-                    Object {
-                      "backgroundColor": "#3497C5",
-                      "marginBottom": "0px",
-                    }
+              <a
+                className="button"
+                href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-43049"
+                style={
+                  Object {
+                    "backgroundColor": "#3497C5",
+                    "marginBottom": "0px",
                   }
-                >
-                  Results
-                </a>
-              </div>
-            </StyledComponent>
+                }
+              >
+                Results
+              </a>
+            </div>
           </styled.div>
           <styled.div
             style={
@@ -2883,63 +1198,28 @@ exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
               }
             }
           >
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
               style={
                 Object {
                   "paddingLeft": "1rem",
                 }
               }
             >
-              <div
-                className="sc-bdVaJa jKchCj"
-                style={
-                  Object {
-                    "paddingLeft": "1rem",
-                  }
-                }
+              <small>
+                25-09-2018
+              </small>
+              <br />
+              <a
+                href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-43049"
               >
-                <small>
-                  25-09-2018
-                </small>
-                <br />
-                <a
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-43049"
-                >
-                  Caco-2 cells: cultured in conventional vs apical anaerobic conditions
-                   – 
-                  <i>
-                    Homo sapiens
-                  </i>
-                </a>
-              </div>
-            </StyledComponent>
+                Caco-2 cells: cultured in conventional vs apical anaerobic conditions
+                 – 
+                <i>
+                  Homo sapiens
+                </i>
+              </a>
+            </div>
           </styled.div>
         </div>
       </LatestExperimentEntry>
@@ -3046,42 +1326,21 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
+              <styled.span
+                backgroundColor="gray"
+                className="button"
+                style={
+                  Object {
+                    "minWidth": "120px",
+                  }
+                }
+                title="Number of assays in experiment"
               >
-                <styled.span
-                  backgroundColor="gray"
-                  className="button"
+                <span
+                  className="sc-AxirZ bNwsDi button"
                   style={
                     Object {
                       "minWidth": "120px",
@@ -3089,119 +1348,31 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                   }
                   title="Number of assays in experiment"
                 >
-                  <StyledComponent
-                    backgroundColor="gray"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                    style={
-                      Object {
-                        "minWidth": "120px",
-                      }
-                    }
-                    title="Number of assays in experiment"
-                  >
-                    <span
-                      className="sc-bwzfXH eHgthR button"
-                      style={
-                        Object {
-                          "minWidth": "120px",
-                        }
-                      }
-                      title="Number of assays in experiment"
-                    >
-                      6,638
-                       assays
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  6,638
+                   assays
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
-              >
-                <a
-                  className="button"
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-EHCA-2"
-                  style={
-                    Object {
-                      "backgroundColor": "#3497C5",
-                      "marginBottom": "0px",
-                    }
+              <a
+                className="button"
+                href="https://www.ebi.ac.uk/gxa/experiments/E-EHCA-2"
+                style={
+                  Object {
+                    "backgroundColor": "#3497C5",
+                    "marginBottom": "0px",
                   }
-                >
-                  Results
-                </a>
-              </div>
-            </StyledComponent>
+                }
+              >
+                Results
+              </a>
+            </div>
           </styled.div>
           <styled.div
             style={
@@ -3210,63 +1381,28 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
               }
             }
           >
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
               style={
                 Object {
                   "paddingLeft": "1rem",
                 }
               }
             >
-              <div
-                className="sc-bdVaJa jKchCj"
-                style={
-                  Object {
-                    "paddingLeft": "1rem",
-                  }
-                }
+              <small>
+                16-11-2018
+              </small>
+              <br />
+              <a
+                href="https://www.ebi.ac.uk/gxa/experiments/E-EHCA-2"
               >
-                <small>
-                  16-11-2018
-                </small>
-                <br />
-                <a
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-EHCA-2"
-                >
-                  Melanoma infiltration of stromal and immune cells
-                   – 
-                  <i>
-                    Mus musculus
-                  </i>
-                </a>
-              </div>
-            </StyledComponent>
+                Melanoma infiltration of stromal and immune cells
+                 – 
+                <i>
+                  Mus musculus
+                </i>
+              </a>
+            </div>
           </styled.div>
         </div>
       </LatestExperimentEntry>
@@ -3304,42 +1440,21 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
+              <styled.span
+                backgroundColor="gray"
+                className="button"
+                style={
+                  Object {
+                    "minWidth": "120px",
+                  }
+                }
+                title="Number of assays in experiment"
               >
-                <styled.span
-                  backgroundColor="gray"
-                  className="button"
+                <span
+                  className="sc-AxirZ bNwsDi button"
                   style={
                     Object {
                       "minWidth": "120px",
@@ -3347,119 +1462,31 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                   }
                   title="Number of assays in experiment"
                 >
-                  <StyledComponent
-                    backgroundColor="gray"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                    style={
-                      Object {
-                        "minWidth": "120px",
-                      }
-                    }
-                    title="Number of assays in experiment"
-                  >
-                    <span
-                      className="sc-bwzfXH eHgthR button"
-                      style={
-                        Object {
-                          "minWidth": "120px",
-                        }
-                      }
-                      title="Number of assays in experiment"
-                    >
-                      3,514
-                       assays
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  3,514
+                   assays
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
-              >
-                <a
-                  className="button"
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-5061"
-                  style={
-                    Object {
-                      "backgroundColor": "#3497C5",
-                      "marginBottom": "0px",
-                    }
+              <a
+                className="button"
+                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-5061"
+                style={
+                  Object {
+                    "backgroundColor": "#3497C5",
+                    "marginBottom": "0px",
                   }
-                >
-                  Results
-                </a>
-              </div>
-            </StyledComponent>
+                }
+              >
+                Results
+              </a>
+            </div>
           </styled.div>
           <styled.div
             style={
@@ -3468,63 +1495,28 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
               }
             }
           >
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
               style={
                 Object {
                   "paddingLeft": "1rem",
                 }
               }
             >
-              <div
-                className="sc-bdVaJa jKchCj"
-                style={
-                  Object {
-                    "paddingLeft": "1rem",
-                  }
-                }
+              <small>
+                11-10-2018
+              </small>
+              <br />
+              <a
+                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-5061"
               >
-                <small>
-                  11-10-2018
-                </small>
-                <br />
-                <a
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-5061"
-                >
-                  Single-cell RNA-seq analysis of human pancreas from healthy individuals and type 2 diabetes patients
-                   – 
-                  <i>
-                    Homo sapiens
-                  </i>
-                </a>
-              </div>
-            </StyledComponent>
+                Single-cell RNA-seq analysis of human pancreas from healthy individuals and type 2 diabetes patients
+                 – 
+                <i>
+                  Homo sapiens
+                </i>
+              </a>
+            </div>
           </styled.div>
         </div>
       </LatestExperimentEntry>
@@ -3561,42 +1553,21 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
+              <styled.span
+                backgroundColor="gray"
+                className="button"
+                style={
+                  Object {
+                    "minWidth": "120px",
+                  }
+                }
+                title="Number of assays in experiment"
               >
-                <styled.span
-                  backgroundColor="gray"
-                  className="button"
+                <span
+                  className="sc-AxirZ bNwsDi button"
                   style={
                     Object {
                       "minWidth": "120px",
@@ -3604,119 +1575,31 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
                   }
                   title="Number of assays in experiment"
                 >
-                  <StyledComponent
-                    backgroundColor="gray"
-                    className="button"
-                    forwardedComponent={
-                      Object {
-                        "$$typeof": Symbol(react.forward_ref),
-                        "attrs": Array [],
-                        "componentStyle": ComponentStyle {
-                          "componentId": "sc-bwzfXH",
-                          "isStatic": false,
-                          "lastClassName": "eHgthR",
-                          "rules": Array [
-                            "
-  margin-bottom: 0px;
-  width: 140px;
-  cursor: default;
-  background-color: ",
-                            [Function],
-                            ";
-  :hover{
-    opacity: 1.0;
-    background-color: ",
-                            [Function],
-                            ";
-  }
-",
-                          ],
-                        },
-                        "displayName": "styled.span",
-                        "foldedComponentIds": Array [],
-                        "render": [Function],
-                        "styledComponentId": "sc-bwzfXH",
-                        "target": "span",
-                        "toString": [Function],
-                        "warnTooManyClasses": [Function],
-                        "withComponent": [Function],
-                      }
-                    }
-                    forwardedRef={null}
-                    style={
-                      Object {
-                        "minWidth": "120px",
-                      }
-                    }
-                    title="Number of assays in experiment"
-                  >
-                    <span
-                      className="sc-bwzfXH eHgthR button"
-                      style={
-                        Object {
-                          "minWidth": "120px",
-                        }
-                      }
-                      title="Number of assays in experiment"
-                    >
-                      250
-                       assays
-                    </span>
-                  </StyledComponent>
-                </styled.span>
-              </div>
-            </StyledComponent>
+                  250
+                   assays
+                </span>
+              </styled.span>
+            </div>
           </styled.div>
           <styled.div
             className="hide-for-small-only"
           >
-            <StyledComponent
-              className="hide-for-small-only"
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo hide-for-small-only"
             >
-              <div
-                className="sc-bdVaJa jKchCj hide-for-small-only"
-              >
-                <a
-                  className="button"
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-99058"
-                  style={
-                    Object {
-                      "backgroundColor": "#3497C5",
-                      "marginBottom": "0px",
-                    }
+              <a
+                className="button"
+                href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-99058"
+                style={
+                  Object {
+                    "backgroundColor": "#3497C5",
+                    "marginBottom": "0px",
                   }
-                >
-                  Results
-                </a>
-              </div>
-            </StyledComponent>
+                }
+              >
+                Results
+              </a>
+            </div>
           </styled.div>
           <styled.div
             style={
@@ -3725,63 +1608,28 @@ exports[`LatestExperimentsList matches snapshot: latest single cell experiments 
               }
             }
           >
-            <StyledComponent
-              forwardedComponent={
-                Object {
-                  "$$typeof": Symbol(react.forward_ref),
-                  "attrs": Array [],
-                  "componentStyle": ComponentStyle {
-                    "componentId": "sc-bdVaJa",
-                    "isStatic": false,
-                    "lastClassName": "jKchCj",
-                    "rules": Array [
-                      "
-  padding-right: 0px;
-  vertical-align: middle;
-  display: table-cell;
-",
-                    ],
-                  },
-                  "displayName": "styled.div",
-                  "foldedComponentIds": Array [],
-                  "render": [Function],
-                  "styledComponentId": "sc-bdVaJa",
-                  "target": "div",
-                  "toString": [Function],
-                  "warnTooManyClasses": [Function],
-                  "withComponent": [Function],
-                }
-              }
-              forwardedRef={null}
+            <div
+              className="sc-AxjAm eJnBLo"
               style={
                 Object {
                   "paddingLeft": "1rem",
                 }
               }
             >
-              <div
-                className="sc-bdVaJa jKchCj"
-                style={
-                  Object {
-                    "paddingLeft": "1rem",
-                  }
-                }
+              <small>
+                11-10-2018
+              </small>
+              <br />
+              <a
+                href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-99058"
               >
-                <small>
-                  11-10-2018
-                </small>
-                <br />
-                <a
-                  href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-99058"
-                >
-                  Single cell RNA-seq of mouse brain astrocyte transcriptomes
-                   – 
-                  <i>
-                    Mus musculus
-                  </i>
-                </a>
-              </div>
-            </StyledComponent>
+                Single cell RNA-seq of mouse brain astrocyte transcriptomes
+                 – 
+                <i>
+                  Mus musculus
+                </i>
+              </a>
+            </div>
           </styled.div>
         </div>
       </LatestExperimentEntry>
