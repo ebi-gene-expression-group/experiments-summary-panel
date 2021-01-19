@@ -590,7 +590,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
             key="0"
           >
             <div
-              className="sc-AxhCb jExiYQ"
+              className="sc-hKgILt lfOSdf"
             >
               <Card
                 content={
@@ -695,7 +695,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
             key="1"
           >
             <div
-              className="sc-AxhCb jExiYQ"
+              className="sc-hKgILt lfOSdf"
             >
               <Card
                 content={
@@ -818,7 +818,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
             key="2"
           >
             <div
-              className="sc-AxhCb jExiYQ"
+              className="sc-hKgILt lfOSdf"
             >
               <Card
                 content={
@@ -941,7 +941,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
             key="3"
           >
             <div
-              className="sc-AxhCb jExiYQ"
+              className="sc-hKgILt lfOSdf"
             >
               <Card
                 content={
@@ -1028,7 +1028,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
             key="4"
           >
             <div
-              className="sc-AxhCb jExiYQ"
+              className="sc-hKgILt lfOSdf"
             >
               <Card
                 content={
@@ -1115,7 +1115,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
             key="5"
           >
             <div
-              className="sc-AxhCb jExiYQ"
+              className="sc-hKgILt lfOSdf"
             >
               <Card
                 content={
@@ -1220,7 +1220,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
             key="6"
           >
             <div
-              className="sc-AxhCb jExiYQ"
+              className="sc-hKgILt lfOSdf"
             >
               <Card
                 content={
@@ -1307,7 +1307,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
             key="7"
           >
             <div
-              className="sc-AxhCb jExiYQ"
+              className="sc-hKgILt lfOSdf"
             >
               <Card
                 content={
@@ -1412,7 +1412,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
             key="8"
           >
             <div
-              className="sc-AxhCb jExiYQ"
+              className="sc-hKgILt lfOSdf"
             >
               <Card
                 content={
@@ -1499,7 +1499,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
             key="9"
           >
             <div
-              className="sc-AxhCb jExiYQ"
+              className="sc-hKgILt lfOSdf"
             >
               <Card
                 content={
@@ -1586,7 +1586,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
             key="10"
           >
             <div
-              className="sc-AxhCb jExiYQ"
+              className="sc-hKgILt lfOSdf"
             >
               <Card
                 content={
@@ -1673,7 +1673,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
             key="11"
           >
             <div
-              className="sc-AxhCb jExiYQ"
+              className="sc-hKgILt lfOSdf"
             >
               <Card
                 content={
@@ -1962,14 +1962,14 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               >
                 <styled.div>
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                   >
                     <styled.span
                       backgroundColor="#007c82"
                       className="button"
                     >
                       <span
-                        className="sc-AxheI kXEfxn button"
+                        className="sc-gKsewC KDRgK button"
                       >
                         Differential
                       </span>
@@ -1980,7 +1980,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <styled.span
                       backgroundColor="gray"
@@ -1993,7 +1993,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       title="Number of assays in experiment"
                     >
                       <span
-                        className="sc-AxheI ibHGnf button"
+                        className="sc-gKsewC kJHfJa button"
                         style={
                           Object {
                             "minWidth": "120px",
@@ -2011,7 +2011,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <a
                       className="button"
@@ -2035,7 +2035,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   }
                 >
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                     style={
                       Object {
                         "paddingLeft": "1rem",
@@ -2091,14 +2091,14 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               >
                 <styled.div>
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                   >
                     <styled.span
                       backgroundColor="#007c82"
                       className="button"
                     >
                       <span
-                        className="sc-AxheI kXEfxn button"
+                        className="sc-gKsewC KDRgK button"
                       >
                         Baseline
                       </span>
@@ -2109,7 +2109,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <styled.span
                       backgroundColor="gray"
@@ -2122,7 +2122,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       title="Number of assays in experiment"
                     >
                       <span
-                        className="sc-AxheI ibHGnf button"
+                        className="sc-gKsewC kJHfJa button"
                         style={
                           Object {
                             "minWidth": "120px",
@@ -2140,7 +2140,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <a
                       className="button"
@@ -2164,7 +2164,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   }
                 >
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                     style={
                       Object {
                         "paddingLeft": "1rem",
@@ -2220,14 +2220,14 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               >
                 <styled.div>
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                   >
                     <styled.span
                       backgroundColor="#007c82"
                       className="button"
                     >
                       <span
-                        className="sc-AxheI kXEfxn button"
+                        className="sc-gKsewC KDRgK button"
                       >
                         Baseline
                       </span>
@@ -2238,7 +2238,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <styled.span
                       backgroundColor="gray"
@@ -2251,7 +2251,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       title="Number of assays in experiment"
                     >
                       <span
-                        className="sc-AxheI ibHGnf button"
+                        className="sc-gKsewC kJHfJa button"
                         style={
                           Object {
                             "minWidth": "120px",
@@ -2269,7 +2269,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <a
                       className="button"
@@ -2293,7 +2293,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   }
                 >
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                     style={
                       Object {
                         "paddingLeft": "1rem",
@@ -2349,14 +2349,14 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               >
                 <styled.div>
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                   >
                     <styled.span
                       backgroundColor="#007c82"
                       className="button"
                     >
                       <span
-                        className="sc-AxheI kXEfxn button"
+                        className="sc-gKsewC KDRgK button"
                       >
                         Baseline
                       </span>
@@ -2367,7 +2367,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <styled.span
                       backgroundColor="gray"
@@ -2380,7 +2380,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       title="Number of assays in experiment"
                     >
                       <span
-                        className="sc-AxheI ibHGnf button"
+                        className="sc-gKsewC kJHfJa button"
                         style={
                           Object {
                             "minWidth": "120px",
@@ -2398,7 +2398,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <a
                       className="button"
@@ -2422,7 +2422,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   }
                 >
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                     style={
                       Object {
                         "paddingLeft": "1rem",
@@ -2479,14 +2479,14 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               >
                 <styled.div>
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                   >
                     <styled.span
                       backgroundColor="#007c82"
                       className="button"
                     >
                       <span
-                        className="sc-AxheI kXEfxn button"
+                        className="sc-gKsewC KDRgK button"
                       >
                         Differential
                       </span>
@@ -2497,7 +2497,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <styled.span
                       backgroundColor="gray"
@@ -2510,7 +2510,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       title="Number of assays in experiment"
                     >
                       <span
-                        className="sc-AxheI ibHGnf button"
+                        className="sc-gKsewC kJHfJa button"
                         style={
                           Object {
                             "minWidth": "120px",
@@ -2528,7 +2528,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <a
                       className="button"
@@ -2552,7 +2552,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   }
                 >
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                     style={
                       Object {
                         "paddingLeft": "1rem",
@@ -2617,14 +2617,14 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               >
                 <styled.div>
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                   >
                     <styled.span
                       backgroundColor="#007c82"
                       className="button"
                     >
                       <span
-                        className="sc-AxheI kXEfxn button"
+                        className="sc-gKsewC KDRgK button"
                       >
                         Differential
                       </span>
@@ -2635,7 +2635,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <styled.span
                       backgroundColor="gray"
@@ -2648,7 +2648,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       title="Number of assays in experiment"
                     >
                       <span
-                        className="sc-AxheI ibHGnf button"
+                        className="sc-gKsewC kJHfJa button"
                         style={
                           Object {
                             "minWidth": "120px",
@@ -2666,7 +2666,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <a
                       className="button"
@@ -2690,7 +2690,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   }
                 >
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                     style={
                       Object {
                         "paddingLeft": "1rem",
@@ -2755,14 +2755,14 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               >
                 <styled.div>
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                   >
                     <styled.span
                       backgroundColor="#007c82"
                       className="button"
                     >
                       <span
-                        className="sc-AxheI kXEfxn button"
+                        className="sc-gKsewC KDRgK button"
                       >
                         Differential
                       </span>
@@ -2773,7 +2773,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <styled.span
                       backgroundColor="gray"
@@ -2786,7 +2786,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       title="Number of assays in experiment"
                     >
                       <span
-                        className="sc-AxheI ibHGnf button"
+                        className="sc-gKsewC kJHfJa button"
                         style={
                           Object {
                             "minWidth": "120px",
@@ -2804,7 +2804,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <a
                       className="button"
@@ -2828,7 +2828,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   }
                 >
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                     style={
                       Object {
                         "paddingLeft": "1rem",
@@ -2892,14 +2892,14 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
               >
                 <styled.div>
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                   >
                     <styled.span
                       backgroundColor="#007c82"
                       className="button"
                     >
                       <span
-                        className="sc-AxheI kXEfxn button"
+                        className="sc-gKsewC KDRgK button"
                       >
                         Differential
                       </span>
@@ -2910,7 +2910,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <styled.span
                       backgroundColor="gray"
@@ -2923,7 +2923,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                       title="Number of assays in experiment"
                     >
                       <span
-                        className="sc-AxheI ibHGnf button"
+                        className="sc-gKsewC kJHfJa button"
                         style={
                           Object {
                             "minWidth": "120px",
@@ -2941,7 +2941,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <a
                       className="button"
@@ -2965,7 +2965,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for bulk experiments with feat
                   }
                 >
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                     style={
                       Object {
                         "paddingLeft": "1rem",
@@ -3186,7 +3186,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <styled.span
                       backgroundColor="gray"
@@ -3199,7 +3199,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                       title="Number of assays in experiment"
                     >
                       <span
-                        className="sc-AxheI ibHGnf button"
+                        className="sc-gKsewC kJHfJa button"
                         style={
                           Object {
                             "minWidth": "120px",
@@ -3217,7 +3217,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <a
                       className="button"
@@ -3241,7 +3241,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                   }
                 >
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                     style={
                       Object {
                         "paddingLeft": "1rem",
@@ -3300,7 +3300,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <styled.span
                       backgroundColor="gray"
@@ -3313,7 +3313,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                       title="Number of assays in experiment"
                     >
                       <span
-                        className="sc-AxheI ibHGnf button"
+                        className="sc-gKsewC kJHfJa button"
                         style={
                           Object {
                             "minWidth": "120px",
@@ -3331,7 +3331,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <a
                       className="button"
@@ -3355,7 +3355,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                   }
                 >
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                     style={
                       Object {
                         "paddingLeft": "1rem",
@@ -3413,7 +3413,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <styled.span
                       backgroundColor="gray"
@@ -3426,7 +3426,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                       title="Number of assays in experiment"
                     >
                       <span
-                        className="sc-AxheI ibHGnf button"
+                        className="sc-gKsewC kJHfJa button"
                         style={
                           Object {
                             "minWidth": "120px",
@@ -3444,7 +3444,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                   className="hide-for-small-only"
                 >
                   <div
-                    className="sc-AxgMl gAiDfU hide-for-small-only"
+                    className="sc-jSgupP hHiGbS hide-for-small-only"
                   >
                     <a
                       className="button"
@@ -3468,7 +3468,7 @@ exports[`ExperimentsSummaryPanel matches snapshot for single cell experiments wi
                   }
                 >
                   <div
-                    className="sc-AxgMl gAiDfU"
+                    className="sc-jSgupP hHiGbS"
                     style={
                       Object {
                         "paddingLeft": "1rem",
