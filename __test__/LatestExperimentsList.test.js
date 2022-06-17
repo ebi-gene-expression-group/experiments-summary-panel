@@ -1,4 +1,5 @@
-import { mount } from 'enzyme'
+import React from 'react'
+import renderer from 'react-test-renderer'
 
 import { bulkExperiments, singleCellExperiments } from './TestUtils'
 
@@ -9,8 +10,12 @@ describe(`LatestExperimentsList`, () => {
     [`latest bulk experiments`, bulkExperiments],
     [`latest single cell experiments`, singleCellExperiments]
   ])(`matches snapshot: %s`, (titleText, experiments) => {
-    expect(
-      mount(<LatestExperimentsList host={`https://www.ebi.ac.uk/gxa/`} experiments={experiments}/>)
-    ).toMatchSnapshot()
+    const tree = renderer
+      .create(<LatestExperimentsList
+        host={`https://www.ebi.ac.uk/gxa/`}
+        experiments={experiments}
+      />)
+      .toJSON()
+    expect(tree).toMatchSnapshot()
   })
 })

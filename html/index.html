@@ -438,9 +438,9 @@
 
   document.addEventListener('DOMContentLoaded', function(event) {
     experimentsSummaryDemo.render({
-      host: 'http://localhost:8080/gxa/',
+      host: 'https://wwwdev.ebi.ac.uk/gxa/',
       latestExperiments: bulkExperiments,
-      featuredExperiments: buildFeaturedExperimentsCards('http://localhost:8080/gxa/'),
+      featuredExperiments: buildFeaturedExperimentsCards('https://wwwdev.ebi.ac.uk/gxa/'),
       responsiveCardsRowProps: {
         className: 'row exsmall-up-2 medium-up-3 large-up-4',
         cardContainerClassName: 'column'
@@ -452,7 +452,7 @@
     }, 'experiments-summary-bulk');
 
     experimentsSummaryDemo.render({
-      host: 'http://localhost:8080/gxa/sc/',
+      host: 'https://wwwdev.ebi.ac.uk/gxa/sc/',
       latestExperiments: singleCellExperiments,
       featuredExperiments: [],
       onComponentDidMount: function() {

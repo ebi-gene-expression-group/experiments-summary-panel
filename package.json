@@ -1,30 +1,12 @@
 {
   "name": "@ebi-gene-expression-group/experiments-summary-panel",
-  "version": "1.0.0-snapshot",
-  "description": "A package that renders links to experiments in (Single Cell) Expression Atlas in style.",
+  "version": "2.0.0-snapshot",
+  "description": "A package that renders links to experiments in (Single Cell) Expression Atlas in style",
   "main": "lib/index.js",
   "scripts": {
-    "prepare": "rm -rf lib && babel src -d lib --copy-files",
-    "test": "jest",
-    "posttest": "jest --coverage --coverageReporters=text-lcov | coveralls",
-    "postversion": "git push && git push --tags"
+    "prepare": "rm -rf lib && babel src -d lib --copy-files"
   },
   "jest": {
-    "setupFilesAfterEnv": [
-      "jest-enzyme"
-    ],
-    "testEnvironment": "enzyme",
-    "testEnvironmentOptions": {
-      "enzymeAdapter": "react16"
-    },
-    "moduleNameMapper": {
-      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__mocks__/fileMock.js",
-      "\\.(css|less)$": "<rootDir>/__mocks__/styleMock.js"
-    },
-    "setupFiles": [
-      "<rootDir>/__mocks__/requestAnimationFrame.js",
-      "<rootDir>/__mocks__/matchMedia.js"
-    ],
     "coveragePathIgnorePatterns": [
       "__test__/TestUtils.js"
     ]
@@ -38,35 +20,31 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ebi-gene-expression-group/atlas-homepage-cards"
+    "url": "https://github.com/ebi-gene-expression-group/experiments-summary-panel"
   },
   "dependencies": {
-    "@ebi-gene-expression-group/atlas-homepage-cards": "^2.5.1",
-    "prop-types": "^15.7.2",
-    "react": "^16.13.1",
-    "styled-components": "^5.2.0",
-    "urijs": "^1.19.2"
+    "@ebi-gene-expression-group/atlas-homepage-cards": "^2.5.2",
+    "prop-types": "^15.8.1",
+    "react": "^17.0.2",
+    "styled-components": "^5.3.5",
+    "urijs": "^1.19.11"
   },
   "devDependencies": {
-    "@babel/cli": "^7.11.6",
-    "@babel/core": "^7.11.6",
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.5",
     "@babel/polyfill": "^7.11.5",
-    "@babel/preset-env": "^7.11.5",
-    "@babel/preset-react": "^7.10.4",
+    "@babel/preset-env": "^7.18.2",
+    "@babel/preset-react": "^7.17.12",
+    "@ebi-gene-expression-group/eslint-config": "^3.3.0",
     "@ebi-gene-expression-group/eslint-config-gene-expression": "^0.6.0",
-    "babel-jest": "^26.3.0",
-    "babel-loader": "^8.1.0",
-    "clean-webpack-plugin": "^3.0.0",
-    "coveralls": "^3.1.0",
-    "enzyme": "^3.11.0",
-    "enzyme-adapter-react-16": "^1.15.4",
-    "eslint": "^7.8.1",
-    "jest": "^26.4.2",
-    "jest-environment-enzyme": "^7.1.2",
-    "jest-enzyme": "^7.1.2",
-    "react-dom": "^16.13.1",
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.0"
+    "babel-jest": "^28.1.1",
+    "babel-loader": "^8.2.5",
+    "eslint": "^8.17.0",
+    "jest": "^28.1.1",
+    "react-dom": "^17.0.2",
+    "react-test-renderer": "^17.0.2",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.9.2"
   }
 }

@@ -3,23 +3,23 @@ import PropTypes from 'prop-types'
 
 import ResponsiveCardsRow from '@ebi-gene-expression-group/atlas-homepage-cards'
 import LatestExperimentsList from './LatestExperimentsList'
-
+import { experimentPropTypes } from './experimentsPropTypes'
 
 class SpeciesSummaryPanel extends React.Component {
-  render() {
+  render () {
     const { host, latestExperiments, featuredExperiments, responsiveCardsRowProps, tabsId } = this.props
 
-    return(
+    return (
       [
         <ul key={`tabs`} className={`tabs`} data-tabs id={tabsId}>
           {
             [
               featuredExperiments.length ?
-                <li key={`featured`} className={`tabs-title is-active`} style={{textTransform: `capitalize`}}>
+                <li key={`featured`} className={`tabs-title is-active`} style={{ textTransform: `capitalize` }}>
                   <a href={`#featured`}>Featured experiments</a>
                 </li> :
                 null,
-              <li key={`latest`} className={`tabs-title${featuredExperiments.length ? `` : ` is-active`}`} style={{textTransform: `capitalize`}}>
+              <li key={`latest`} className={`tabs-title${featuredExperiments.length ? `` : ` is-active`}`} style={{ textTransform: `capitalize` }}>
                 <a href={`#latest`}>Latest experiments</a>
               </li>
             ]
@@ -53,7 +53,7 @@ class SpeciesSummaryPanel extends React.Component {
 
   // Since the tabs need $().foundation() to function properly, we provide an optional callback to be run on the
   // target DOM node once the component has been initially rendered
-  componentDidMount() {
+  componentDidMount () {
     this.props.onComponentDidMount()
   }
 }
@@ -61,17 +61,10 @@ class SpeciesSummaryPanel extends React.Component {
 SpeciesSummaryPanel.propTypes = {
   host: PropTypes.string.isRequired,
   featuredExperiments: ResponsiveCardsRow.propTypes.cards,
-  latestExperiments: PropTypes.arrayOf(PropTypes.shape({
-    experimentType: PropTypes.string.isRequired,
-    experimentAccession: PropTypes.string.isRequired,
-    experimentDescription: PropTypes.string.isRequired,
-    numberOfAssays: PropTypes.number.isRequired,
-    lastUpdate: PropTypes.string.isRequired,
-    species: PropTypes.string.isRequired
-  })).isRequired,
+  latestExperiments: PropTypes.arrayOf(PropTypes.shape(experimentPropTypes)).isRequired,
   onComponentDidMount: PropTypes.func,
   responsiveCardsRowProps: PropTypes.object,
-  tabsId: PropTypes.string,
+  tabsId: PropTypes.string
 }
 
 SpeciesSummaryPanel.defaultProps = {

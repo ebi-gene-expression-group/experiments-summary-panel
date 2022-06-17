@@ -1,1639 +1,812 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`LatestExperimentsList matches snapshot: latest bulk experiments 1`] = `
-<LatestExperimentsList
-  experiments={
-    Array [
-      Object {
-        "arrayDesignNames": Array [
-          "Affymetrix GeneChip Human Genome U133 Plus 2.0 [HG-U133_Plus_2]",
-        ],
-        "arrayDesigns": Array [
-          "A-AFFY-44",
-        ],
-        "experimentAccession": "E-GEOD-40611",
-        "experimentDescription": "Transcription profiling by array of parotid tissue from Primary Sjögren’s Syndrome and controls",
-        "experimentType": "MICROARRAY_ANY",
-        "experimentalFactors": Array [
-          "block",
-          "disease",
-        ],
-        "kingdom": "animals",
-        "lastUpdate": "06-03-2019",
-        "numberOfAssays": 49,
-        "numberOfContrasts": 2,
-        "species": "Homo sapiens",
-      },
-      Object {
-        "arrayDesignNames": Array [],
-        "arrayDesigns": Array [],
-        "experimentAccession": "E-MTAB-451",
-        "experimentDescription": "RNA-Seq of Schistosoma mansoni (flatworms) larva and adult individuals at different life-stages",
-        "experimentType": "RNASEQ_MRNA_BASELINE",
-        "experimentalFactors": Array [
-          "developmental stage",
-        ],
-        "kingdom": "animals",
-        "lastUpdate": "06-10-2018",
-        "numberOfAssays": 11,
-        "numberOfContrasts": 0,
-        "species": "Schistosoma mansoni",
-      },
-      Object {
-        "arrayDesignNames": Array [],
-        "arrayDesigns": Array [],
-        "experimentAccession": "E-MTAB-2836",
-        "experimentDescription": "RNA-seq of coding RNA from tissue samples of 122 human individuals representing 32 different tissues",
-        "experimentType": "RNASEQ_MRNA_BASELINE",
-        "experimentalFactors": Array [
-          "organism part",
-        ],
-        "kingdom": "animals",
-        "lastUpdate": "05-10-2018",
-        "numberOfAssays": 200,
-        "numberOfContrasts": 0,
-        "species": "Homo sapiens",
-      },
-      Object {
-        "arrayDesignNames": Array [],
-        "arrayDesigns": Array [],
-        "experimentAccession": "E-MTAB-4401",
-        "experimentDescription": "Transcription profiling by high throughput sequencing of different tissues from Brachypodium distachyon (Bd21 inbred line)",
-        "experimentType": "RNASEQ_MRNA_BASELINE",
-        "experimentalFactors": Array [
-          "organism part",
-        ],
-        "kingdom": "plants",
-        "lastUpdate": "05-10-2018",
-        "numberOfAssays": 11,
-        "numberOfContrasts": 0,
-        "species": "Brachypodium distachyon",
-      },
-      Object {
-        "arrayDesignNames": Array [],
-        "arrayDesigns": Array [],
-        "experimentAccession": "E-MTAB-1913",
-        "experimentDescription": "Salt stress in salt sensitive Oryza sativa Indica group IR29 ",
-        "experimentType": "RNASEQ_MRNA_DIFFERENTIAL",
-        "experimentalFactors": Array [
-          "growth condition",
-          "time",
-        ],
-        "kingdom": "plants",
-        "lastUpdate": "04-10-2018",
-        "numberOfAssays": 30,
-        "numberOfContrasts": 15,
-        "species": "Oryza sativa Indica group",
-      },
-      Object {
-        "arrayDesignNames": Array [
-          "Affymetrix GeneChip Drosophila Genome [DrosGenome1]",
-        ],
-        "arrayDesigns": Array [
-          "A-AFFY-17",
-        ],
-        "experimentAccession": "E-MAXD-6",
-        "experimentDescription": "Transcription profiling by array of Drosophila larvae after parasitoid attack",
-        "experimentType": "MICROARRAY_ANY",
-        "experimentalFactors": Array [
-          "infect",
-          "time",
-        ],
-        "kingdom": "animals",
-        "lastUpdate": "04-10-2018",
-        "numberOfAssays": 89,
-        "numberOfContrasts": 9,
-        "species": "Drosophila melanogaster",
-      },
-      Object {
-        "arrayDesignNames": Array [
-          "Affymetrix GeneChip C. elegans Genome Array [Celegans]",
-        ],
-        "arrayDesigns": Array [
-          "A-AFFY-60",
-        ],
-        "experimentAccession": "E-MEXP-1810",
-        "experimentDescription": "Transcription profiling by array of C. elegans isolates treated with dauer larva-inducing pheromone",
-        "experimentType": "MICROARRAY_ANY",
-        "experimentalFactors": Array [
-          "compound",
-          "strain",
-        ],
-        "kingdom": "animals",
-        "lastUpdate": "25-09-2018",
-        "numberOfAssays": 12,
-        "numberOfContrasts": 2,
-        "species": "Caenorhabditis elegans",
-      },
-      Object {
-        "arrayDesignNames": Array [
-          "Agilent Whole Human Genome Microarray 4x44K 014850 G4112F (85 cols x 532 rows)",
-        ],
-        "arrayDesigns": Array [
-          "A-AGIL-28",
-        ],
-        "experimentAccession": "E-GEOD-43049",
-        "experimentDescription": "Caco-2 cells: cultured in conventional vs apical anaerobic conditions",
-        "experimentType": "MICROARRAY_ANY",
-        "experimentalFactors": Array [
-          "growth condition",
-        ],
-        "kingdom": "animals",
-        "lastUpdate": "25-09-2018",
-        "numberOfAssays": 12,
-        "numberOfContrasts": 1,
-        "species": "Homo sapiens",
-      },
-    ]
-  }
-  host="https://www.ebi.ac.uk/gxa/"
->
-  <ul
-    style={
-      Object {
-        "listStyle": "none",
-        "marginLeft": "offset",
-      }
+<ul
+  style={
+    Object {
+      "listStyle": "none",
+      "marginLeft": "offset",
     }
-  >
-    <li
-      key="0"
+  }
+>
+  <li>
+    <div
+      style={
+        Object {
+          "display": "block",
+          "marginBottom": "1rem",
+        }
+      }
     >
-      <LatestExperimentEntry
-        arrayDesignNames={
-          Array [
-            "Affymetrix GeneChip Human Genome U133 Plus 2.0 [HG-U133_Plus_2]",
-          ]
-        }
-        arrayDesigns={
-          Array [
-            "A-AFFY-44",
-          ]
-        }
-        experimentAccession="E-GEOD-40611"
-        experimentDescription="Transcription profiling by array of parotid tissue from Primary Sjögren’s Syndrome and controls"
-        experimentType="MICROARRAY_ANY"
-        experimentalFactors={
-          Array [
-            "block",
-            "disease",
-          ]
-        }
-        host="https://www.ebi.ac.uk/gxa/"
-        kingdom="animals"
-        lastUpdate="06-03-2019"
-        numberOfAssays={49}
-        numberOfContrasts={2}
-        species="Homo sapiens"
+      <div
+        className="sc-bczRLJ iuLMzT"
       >
-        <div
+        <span
+          className="sc-gsnTZi dsXvwY button"
+        >
+          Differential
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <span
+          className="sc-gsnTZi iupGoc button"
           style={
             Object {
-              "display": "block",
-              "marginBottom": "1rem",
+              "minWidth": "120px",
+            }
+          }
+          title="Number of assays in experiment"
+        >
+          49
+           assays
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <a
+          className="button"
+          href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-40611"
+          style={
+            Object {
+              "backgroundColor": "#3497C5",
+              "marginBottom": "0px",
             }
           }
         >
-          <styled.div>
-            <div
-              className="sc-bdfBwQ bNNAox"
-            >
-              <styled.span
-                backgroundColor="#007c82"
-                className="button"
-              >
-                <span
-                  className="sc-gsTCUz cxXcpI button"
-                >
-                  Differential
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <styled.span
-                backgroundColor="gray"
-                className="button"
-                style={
-                  Object {
-                    "minWidth": "120px",
-                  }
-                }
-                title="Number of assays in experiment"
-              >
-                <span
-                  className="sc-gsTCUz lhjHps button"
-                  style={
-                    Object {
-                      "minWidth": "120px",
-                    }
-                  }
-                  title="Number of assays in experiment"
-                >
-                  49
-                   assays
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <a
-                className="button"
-                href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-40611"
-                style={
-                  Object {
-                    "backgroundColor": "#3497C5",
-                    "marginBottom": "0px",
-                  }
-                }
-              >
-                Results
-              </a>
-            </div>
-          </styled.div>
-          <styled.div
-            style={
-              Object {
-                "paddingLeft": "1rem",
-              }
-            }
-          >
-            <div
-              className="sc-bdfBwQ bNNAox"
-              style={
-                Object {
-                  "paddingLeft": "1rem",
-                }
-              }
-            >
-              <small>
-                06-03-2019
-              </small>
-              <br />
-              <a
-                href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-40611"
-              >
-                Transcription profiling by array of parotid tissue from Primary Sjögren’s Syndrome and controls
-                 – 
-                <i>
-                  Homo sapiens
-                </i>
-              </a>
-            </div>
-          </styled.div>
-        </div>
-      </LatestExperimentEntry>
-    </li>
-    <li
-      key="1"
-    >
-      <LatestExperimentEntry
-        arrayDesignNames={Array []}
-        arrayDesigns={Array []}
-        experimentAccession="E-MTAB-451"
-        experimentDescription="RNA-Seq of Schistosoma mansoni (flatworms) larva and adult individuals at different life-stages"
-        experimentType="RNASEQ_MRNA_BASELINE"
-        experimentalFactors={
-          Array [
-            "developmental stage",
-          ]
+          Results
+        </a>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT"
+        style={
+          Object {
+            "paddingLeft": "1rem",
+          }
         }
-        host="https://www.ebi.ac.uk/gxa/"
-        kingdom="animals"
-        lastUpdate="06-10-2018"
-        numberOfAssays={11}
-        numberOfContrasts={0}
-        species="Schistosoma mansoni"
       >
-        <div
+        <small>
+          06-03-2019
+        </small>
+        <br />
+        <a
+          href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-40611"
+        >
+          Transcription profiling by array of parotid tissue from Primary Sjögren’s Syndrome and controls
+           – 
+          <i>
+            Homo sapiens
+          </i>
+        </a>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div
+      style={
+        Object {
+          "display": "block",
+          "marginBottom": "1rem",
+        }
+      }
+    >
+      <div
+        className="sc-bczRLJ iuLMzT"
+      >
+        <span
+          className="sc-gsnTZi dsXvwY button"
+        >
+          Baseline
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <span
+          className="sc-gsnTZi iupGoc button"
           style={
             Object {
-              "display": "block",
-              "marginBottom": "1rem",
+              "minWidth": "120px",
+            }
+          }
+          title="Number of assays in experiment"
+        >
+          11
+           assays
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <a
+          className="button"
+          href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-451"
+          style={
+            Object {
+              "backgroundColor": "#3497C5",
+              "marginBottom": "0px",
             }
           }
         >
-          <styled.div>
-            <div
-              className="sc-bdfBwQ bNNAox"
-            >
-              <styled.span
-                backgroundColor="#007c82"
-                className="button"
-              >
-                <span
-                  className="sc-gsTCUz cxXcpI button"
-                >
-                  Baseline
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <styled.span
-                backgroundColor="gray"
-                className="button"
-                style={
-                  Object {
-                    "minWidth": "120px",
-                  }
-                }
-                title="Number of assays in experiment"
-              >
-                <span
-                  className="sc-gsTCUz lhjHps button"
-                  style={
-                    Object {
-                      "minWidth": "120px",
-                    }
-                  }
-                  title="Number of assays in experiment"
-                >
-                  11
-                   assays
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <a
-                className="button"
-                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-451"
-                style={
-                  Object {
-                    "backgroundColor": "#3497C5",
-                    "marginBottom": "0px",
-                  }
-                }
-              >
-                Results
-              </a>
-            </div>
-          </styled.div>
-          <styled.div
-            style={
-              Object {
-                "paddingLeft": "1rem",
-              }
-            }
-          >
-            <div
-              className="sc-bdfBwQ bNNAox"
-              style={
-                Object {
-                  "paddingLeft": "1rem",
-                }
-              }
-            >
-              <small>
-                06-10-2018
-              </small>
-              <br />
-              <a
-                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-451"
-              >
-                RNA-Seq of Schistosoma mansoni (flatworms) larva and adult individuals at different life-stages
-                 – 
-                <i>
-                  Schistosoma mansoni
-                </i>
-              </a>
-            </div>
-          </styled.div>
-        </div>
-      </LatestExperimentEntry>
-    </li>
-    <li
-      key="2"
-    >
-      <LatestExperimentEntry
-        arrayDesignNames={Array []}
-        arrayDesigns={Array []}
-        experimentAccession="E-MTAB-2836"
-        experimentDescription="RNA-seq of coding RNA from tissue samples of 122 human individuals representing 32 different tissues"
-        experimentType="RNASEQ_MRNA_BASELINE"
-        experimentalFactors={
-          Array [
-            "organism part",
-          ]
+          Results
+        </a>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT"
+        style={
+          Object {
+            "paddingLeft": "1rem",
+          }
         }
-        host="https://www.ebi.ac.uk/gxa/"
-        kingdom="animals"
-        lastUpdate="05-10-2018"
-        numberOfAssays={200}
-        numberOfContrasts={0}
-        species="Homo sapiens"
       >
-        <div
+        <small>
+          06-10-2018
+        </small>
+        <br />
+        <a
+          href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-451"
+        >
+          RNA-Seq of Schistosoma mansoni (flatworms) larva and adult individuals at different life-stages
+           – 
+          <i>
+            Schistosoma mansoni
+          </i>
+        </a>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div
+      style={
+        Object {
+          "display": "block",
+          "marginBottom": "1rem",
+        }
+      }
+    >
+      <div
+        className="sc-bczRLJ iuLMzT"
+      >
+        <span
+          className="sc-gsnTZi dsXvwY button"
+        >
+          Baseline
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <span
+          className="sc-gsnTZi iupGoc button"
           style={
             Object {
-              "display": "block",
-              "marginBottom": "1rem",
+              "minWidth": "120px",
+            }
+          }
+          title="Number of assays in experiment"
+        >
+          200
+           assays
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <a
+          className="button"
+          href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2836"
+          style={
+            Object {
+              "backgroundColor": "#3497C5",
+              "marginBottom": "0px",
             }
           }
         >
-          <styled.div>
-            <div
-              className="sc-bdfBwQ bNNAox"
-            >
-              <styled.span
-                backgroundColor="#007c82"
-                className="button"
-              >
-                <span
-                  className="sc-gsTCUz cxXcpI button"
-                >
-                  Baseline
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <styled.span
-                backgroundColor="gray"
-                className="button"
-                style={
-                  Object {
-                    "minWidth": "120px",
-                  }
-                }
-                title="Number of assays in experiment"
-              >
-                <span
-                  className="sc-gsTCUz lhjHps button"
-                  style={
-                    Object {
-                      "minWidth": "120px",
-                    }
-                  }
-                  title="Number of assays in experiment"
-                >
-                  200
-                   assays
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <a
-                className="button"
-                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2836"
-                style={
-                  Object {
-                    "backgroundColor": "#3497C5",
-                    "marginBottom": "0px",
-                  }
-                }
-              >
-                Results
-              </a>
-            </div>
-          </styled.div>
-          <styled.div
-            style={
-              Object {
-                "paddingLeft": "1rem",
-              }
-            }
-          >
-            <div
-              className="sc-bdfBwQ bNNAox"
-              style={
-                Object {
-                  "paddingLeft": "1rem",
-                }
-              }
-            >
-              <small>
-                05-10-2018
-              </small>
-              <br />
-              <a
-                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2836"
-              >
-                RNA-seq of coding RNA from tissue samples of 122 human individuals representing 32 different tissues
-                 – 
-                <i>
-                  Homo sapiens
-                </i>
-              </a>
-            </div>
-          </styled.div>
-        </div>
-      </LatestExperimentEntry>
-    </li>
-    <li
-      key="3"
-    >
-      <LatestExperimentEntry
-        arrayDesignNames={Array []}
-        arrayDesigns={Array []}
-        experimentAccession="E-MTAB-4401"
-        experimentDescription="Transcription profiling by high throughput sequencing of different tissues from Brachypodium distachyon (Bd21 inbred line)"
-        experimentType="RNASEQ_MRNA_BASELINE"
-        experimentalFactors={
-          Array [
-            "organism part",
-          ]
+          Results
+        </a>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT"
+        style={
+          Object {
+            "paddingLeft": "1rem",
+          }
         }
-        host="https://www.ebi.ac.uk/gxa/"
-        kingdom="plants"
-        lastUpdate="05-10-2018"
-        numberOfAssays={11}
-        numberOfContrasts={0}
-        species="Brachypodium distachyon"
       >
-        <div
+        <small>
+          05-10-2018
+        </small>
+        <br />
+        <a
+          href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2836"
+        >
+          RNA-seq of coding RNA from tissue samples of 122 human individuals representing 32 different tissues
+           – 
+          <i>
+            Homo sapiens
+          </i>
+        </a>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div
+      style={
+        Object {
+          "display": "block",
+          "marginBottom": "1rem",
+        }
+      }
+    >
+      <div
+        className="sc-bczRLJ iuLMzT"
+      >
+        <span
+          className="sc-gsnTZi dsXvwY button"
+        >
+          Baseline
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <span
+          className="sc-gsnTZi iupGoc button"
           style={
             Object {
-              "display": "block",
-              "marginBottom": "1rem",
+              "minWidth": "120px",
+            }
+          }
+          title="Number of assays in experiment"
+        >
+          11
+           assays
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <a
+          className="button"
+          href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-4401"
+          style={
+            Object {
+              "backgroundColor": "#3497C5",
+              "marginBottom": "0px",
             }
           }
         >
-          <styled.div>
-            <div
-              className="sc-bdfBwQ bNNAox"
-            >
-              <styled.span
-                backgroundColor="#007c82"
-                className="button"
-              >
-                <span
-                  className="sc-gsTCUz cxXcpI button"
-                >
-                  Baseline
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <styled.span
-                backgroundColor="gray"
-                className="button"
-                style={
-                  Object {
-                    "minWidth": "120px",
-                  }
-                }
-                title="Number of assays in experiment"
-              >
-                <span
-                  className="sc-gsTCUz lhjHps button"
-                  style={
-                    Object {
-                      "minWidth": "120px",
-                    }
-                  }
-                  title="Number of assays in experiment"
-                >
-                  11
-                   assays
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <a
-                className="button"
-                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-4401"
-                style={
-                  Object {
-                    "backgroundColor": "#3497C5",
-                    "marginBottom": "0px",
-                  }
-                }
-              >
-                Results
-              </a>
-            </div>
-          </styled.div>
-          <styled.div
-            style={
-              Object {
-                "paddingLeft": "1rem",
-              }
-            }
-          >
-            <div
-              className="sc-bdfBwQ bNNAox"
-              style={
-                Object {
-                  "paddingLeft": "1rem",
-                }
-              }
-            >
-              <small>
-                05-10-2018
-              </small>
-              <br />
-              <a
-                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-4401"
-              >
-                Transcription profiling by high throughput sequencing of different tissues from Brachypodium distachyon (Bd21 inbred line)
-                 – 
-                <i>
-                  Brachypodium distachyon
-                </i>
-              </a>
-            </div>
-          </styled.div>
-        </div>
-      </LatestExperimentEntry>
-    </li>
-    <li
-      key="4"
-    >
-      <LatestExperimentEntry
-        arrayDesignNames={Array []}
-        arrayDesigns={Array []}
-        experimentAccession="E-MTAB-1913"
-        experimentDescription="Salt stress in salt sensitive Oryza sativa Indica group IR29 "
-        experimentType="RNASEQ_MRNA_DIFFERENTIAL"
-        experimentalFactors={
-          Array [
-            "growth condition",
-            "time",
-          ]
+          Results
+        </a>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT"
+        style={
+          Object {
+            "paddingLeft": "1rem",
+          }
         }
-        host="https://www.ebi.ac.uk/gxa/"
-        kingdom="plants"
-        lastUpdate="04-10-2018"
-        numberOfAssays={30}
-        numberOfContrasts={15}
-        species="Oryza sativa Indica group"
       >
-        <div
+        <small>
+          05-10-2018
+        </small>
+        <br />
+        <a
+          href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-4401"
+        >
+          Transcription profiling by high throughput sequencing of different tissues from Brachypodium distachyon (Bd21 inbred line)
+           – 
+          <i>
+            Brachypodium distachyon
+          </i>
+        </a>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div
+      style={
+        Object {
+          "display": "block",
+          "marginBottom": "1rem",
+        }
+      }
+    >
+      <div
+        className="sc-bczRLJ iuLMzT"
+      >
+        <span
+          className="sc-gsnTZi dsXvwY button"
+        >
+          Differential
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <span
+          className="sc-gsnTZi iupGoc button"
           style={
             Object {
-              "display": "block",
-              "marginBottom": "1rem",
+              "minWidth": "120px",
+            }
+          }
+          title="Number of assays in experiment"
+        >
+          30
+           assays
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <a
+          className="button"
+          href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-1913"
+          style={
+            Object {
+              "backgroundColor": "#3497C5",
+              "marginBottom": "0px",
             }
           }
         >
-          <styled.div>
-            <div
-              className="sc-bdfBwQ bNNAox"
-            >
-              <styled.span
-                backgroundColor="#007c82"
-                className="button"
-              >
-                <span
-                  className="sc-gsTCUz cxXcpI button"
-                >
-                  Differential
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <styled.span
-                backgroundColor="gray"
-                className="button"
-                style={
-                  Object {
-                    "minWidth": "120px",
-                  }
-                }
-                title="Number of assays in experiment"
-              >
-                <span
-                  className="sc-gsTCUz lhjHps button"
-                  style={
-                    Object {
-                      "minWidth": "120px",
-                    }
-                  }
-                  title="Number of assays in experiment"
-                >
-                  30
-                   assays
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <a
-                className="button"
-                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-1913"
-                style={
-                  Object {
-                    "backgroundColor": "#3497C5",
-                    "marginBottom": "0px",
-                  }
-                }
-              >
-                Results
-              </a>
-            </div>
-          </styled.div>
-          <styled.div
-            style={
-              Object {
-                "paddingLeft": "1rem",
-              }
-            }
-          >
-            <div
-              className="sc-bdfBwQ bNNAox"
-              style={
-                Object {
-                  "paddingLeft": "1rem",
-                }
-              }
-            >
-              <small>
-                04-10-2018
-              </small>
-              <br />
-              <a
-                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-1913"
-              >
-                Salt stress in salt sensitive Oryza sativa Indica group IR29 
-                 – 
-                <i>
-                  Oryza sativa Indica group
-                </i>
-              </a>
-            </div>
-          </styled.div>
-        </div>
-      </LatestExperimentEntry>
-    </li>
-    <li
-      key="5"
-    >
-      <LatestExperimentEntry
-        arrayDesignNames={
-          Array [
-            "Affymetrix GeneChip Drosophila Genome [DrosGenome1]",
-          ]
+          Results
+        </a>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT"
+        style={
+          Object {
+            "paddingLeft": "1rem",
+          }
         }
-        arrayDesigns={
-          Array [
-            "A-AFFY-17",
-          ]
-        }
-        experimentAccession="E-MAXD-6"
-        experimentDescription="Transcription profiling by array of Drosophila larvae after parasitoid attack"
-        experimentType="MICROARRAY_ANY"
-        experimentalFactors={
-          Array [
-            "infect",
-            "time",
-          ]
-        }
-        host="https://www.ebi.ac.uk/gxa/"
-        kingdom="animals"
-        lastUpdate="04-10-2018"
-        numberOfAssays={89}
-        numberOfContrasts={9}
-        species="Drosophila melanogaster"
       >
-        <div
+        <small>
+          04-10-2018
+        </small>
+        <br />
+        <a
+          href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-1913"
+        >
+          Salt stress in salt sensitive Oryza sativa Indica group IR29 
+           – 
+          <i>
+            Oryza sativa Indica group
+          </i>
+        </a>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div
+      style={
+        Object {
+          "display": "block",
+          "marginBottom": "1rem",
+        }
+      }
+    >
+      <div
+        className="sc-bczRLJ iuLMzT"
+      >
+        <span
+          className="sc-gsnTZi dsXvwY button"
+        >
+          Differential
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <span
+          className="sc-gsnTZi iupGoc button"
           style={
             Object {
-              "display": "block",
-              "marginBottom": "1rem",
+              "minWidth": "120px",
+            }
+          }
+          title="Number of assays in experiment"
+        >
+          89
+           assays
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <a
+          className="button"
+          href="https://www.ebi.ac.uk/gxa/experiments/E-MAXD-6"
+          style={
+            Object {
+              "backgroundColor": "#3497C5",
+              "marginBottom": "0px",
             }
           }
         >
-          <styled.div>
-            <div
-              className="sc-bdfBwQ bNNAox"
-            >
-              <styled.span
-                backgroundColor="#007c82"
-                className="button"
-              >
-                <span
-                  className="sc-gsTCUz cxXcpI button"
-                >
-                  Differential
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <styled.span
-                backgroundColor="gray"
-                className="button"
-                style={
-                  Object {
-                    "minWidth": "120px",
-                  }
-                }
-                title="Number of assays in experiment"
-              >
-                <span
-                  className="sc-gsTCUz lhjHps button"
-                  style={
-                    Object {
-                      "minWidth": "120px",
-                    }
-                  }
-                  title="Number of assays in experiment"
-                >
-                  89
-                   assays
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <a
-                className="button"
-                href="https://www.ebi.ac.uk/gxa/experiments/E-MAXD-6"
-                style={
-                  Object {
-                    "backgroundColor": "#3497C5",
-                    "marginBottom": "0px",
-                  }
-                }
-              >
-                Results
-              </a>
-            </div>
-          </styled.div>
-          <styled.div
-            style={
-              Object {
-                "paddingLeft": "1rem",
-              }
-            }
-          >
-            <div
-              className="sc-bdfBwQ bNNAox"
-              style={
-                Object {
-                  "paddingLeft": "1rem",
-                }
-              }
-            >
-              <small>
-                04-10-2018
-              </small>
-              <br />
-              <a
-                href="https://www.ebi.ac.uk/gxa/experiments/E-MAXD-6"
-              >
-                Transcription profiling by array of Drosophila larvae after parasitoid attack
-                 – 
-                <i>
-                  Drosophila melanogaster
-                </i>
-              </a>
-            </div>
-          </styled.div>
-        </div>
-      </LatestExperimentEntry>
-    </li>
-    <li
-      key="6"
-    >
-      <LatestExperimentEntry
-        arrayDesignNames={
-          Array [
-            "Affymetrix GeneChip C. elegans Genome Array [Celegans]",
-          ]
+          Results
+        </a>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT"
+        style={
+          Object {
+            "paddingLeft": "1rem",
+          }
         }
-        arrayDesigns={
-          Array [
-            "A-AFFY-60",
-          ]
-        }
-        experimentAccession="E-MEXP-1810"
-        experimentDescription="Transcription profiling by array of C. elegans isolates treated with dauer larva-inducing pheromone"
-        experimentType="MICROARRAY_ANY"
-        experimentalFactors={
-          Array [
-            "compound",
-            "strain",
-          ]
-        }
-        host="https://www.ebi.ac.uk/gxa/"
-        kingdom="animals"
-        lastUpdate="25-09-2018"
-        numberOfAssays={12}
-        numberOfContrasts={2}
-        species="Caenorhabditis elegans"
       >
-        <div
+        <small>
+          04-10-2018
+        </small>
+        <br />
+        <a
+          href="https://www.ebi.ac.uk/gxa/experiments/E-MAXD-6"
+        >
+          Transcription profiling by array of Drosophila larvae after parasitoid attack
+           – 
+          <i>
+            Drosophila melanogaster
+          </i>
+        </a>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div
+      style={
+        Object {
+          "display": "block",
+          "marginBottom": "1rem",
+        }
+      }
+    >
+      <div
+        className="sc-bczRLJ iuLMzT"
+      >
+        <span
+          className="sc-gsnTZi dsXvwY button"
+        >
+          Differential
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <span
+          className="sc-gsnTZi iupGoc button"
           style={
             Object {
-              "display": "block",
-              "marginBottom": "1rem",
+              "minWidth": "120px",
+            }
+          }
+          title="Number of assays in experiment"
+        >
+          12
+           assays
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <a
+          className="button"
+          href="https://www.ebi.ac.uk/gxa/experiments/E-MEXP-1810"
+          style={
+            Object {
+              "backgroundColor": "#3497C5",
+              "marginBottom": "0px",
             }
           }
         >
-          <styled.div>
-            <div
-              className="sc-bdfBwQ bNNAox"
-            >
-              <styled.span
-                backgroundColor="#007c82"
-                className="button"
-              >
-                <span
-                  className="sc-gsTCUz cxXcpI button"
-                >
-                  Differential
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <styled.span
-                backgroundColor="gray"
-                className="button"
-                style={
-                  Object {
-                    "minWidth": "120px",
-                  }
-                }
-                title="Number of assays in experiment"
-              >
-                <span
-                  className="sc-gsTCUz lhjHps button"
-                  style={
-                    Object {
-                      "minWidth": "120px",
-                    }
-                  }
-                  title="Number of assays in experiment"
-                >
-                  12
-                   assays
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <a
-                className="button"
-                href="https://www.ebi.ac.uk/gxa/experiments/E-MEXP-1810"
-                style={
-                  Object {
-                    "backgroundColor": "#3497C5",
-                    "marginBottom": "0px",
-                  }
-                }
-              >
-                Results
-              </a>
-            </div>
-          </styled.div>
-          <styled.div
-            style={
-              Object {
-                "paddingLeft": "1rem",
-              }
-            }
-          >
-            <div
-              className="sc-bdfBwQ bNNAox"
-              style={
-                Object {
-                  "paddingLeft": "1rem",
-                }
-              }
-            >
-              <small>
-                25-09-2018
-              </small>
-              <br />
-              <a
-                href="https://www.ebi.ac.uk/gxa/experiments/E-MEXP-1810"
-              >
-                Transcription profiling by array of C. elegans isolates treated with dauer larva-inducing pheromone
-                 – 
-                <i>
-                  Caenorhabditis elegans
-                </i>
-              </a>
-            </div>
-          </styled.div>
-        </div>
-      </LatestExperimentEntry>
-    </li>
-    <li
-      key="7"
-    >
-      <LatestExperimentEntry
-        arrayDesignNames={
-          Array [
-            "Agilent Whole Human Genome Microarray 4x44K 014850 G4112F (85 cols x 532 rows)",
-          ]
+          Results
+        </a>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT"
+        style={
+          Object {
+            "paddingLeft": "1rem",
+          }
         }
-        arrayDesigns={
-          Array [
-            "A-AGIL-28",
-          ]
-        }
-        experimentAccession="E-GEOD-43049"
-        experimentDescription="Caco-2 cells: cultured in conventional vs apical anaerobic conditions"
-        experimentType="MICROARRAY_ANY"
-        experimentalFactors={
-          Array [
-            "growth condition",
-          ]
-        }
-        host="https://www.ebi.ac.uk/gxa/"
-        kingdom="animals"
-        lastUpdate="25-09-2018"
-        numberOfAssays={12}
-        numberOfContrasts={1}
-        species="Homo sapiens"
       >
-        <div
+        <small>
+          25-09-2018
+        </small>
+        <br />
+        <a
+          href="https://www.ebi.ac.uk/gxa/experiments/E-MEXP-1810"
+        >
+          Transcription profiling by array of C. elegans isolates treated with dauer larva-inducing pheromone
+           – 
+          <i>
+            Caenorhabditis elegans
+          </i>
+        </a>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div
+      style={
+        Object {
+          "display": "block",
+          "marginBottom": "1rem",
+        }
+      }
+    >
+      <div
+        className="sc-bczRLJ iuLMzT"
+      >
+        <span
+          className="sc-gsnTZi dsXvwY button"
+        >
+          Differential
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <span
+          className="sc-gsnTZi iupGoc button"
           style={
             Object {
-              "display": "block",
-              "marginBottom": "1rem",
+              "minWidth": "120px",
+            }
+          }
+          title="Number of assays in experiment"
+        >
+          12
+           assays
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <a
+          className="button"
+          href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-43049"
+          style={
+            Object {
+              "backgroundColor": "#3497C5",
+              "marginBottom": "0px",
             }
           }
         >
-          <styled.div>
-            <div
-              className="sc-bdfBwQ bNNAox"
-            >
-              <styled.span
-                backgroundColor="#007c82"
-                className="button"
-              >
-                <span
-                  className="sc-gsTCUz cxXcpI button"
-                >
-                  Differential
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <styled.span
-                backgroundColor="gray"
-                className="button"
-                style={
-                  Object {
-                    "minWidth": "120px",
-                  }
-                }
-                title="Number of assays in experiment"
-              >
-                <span
-                  className="sc-gsTCUz lhjHps button"
-                  style={
-                    Object {
-                      "minWidth": "120px",
-                    }
-                  }
-                  title="Number of assays in experiment"
-                >
-                  12
-                   assays
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <a
-                className="button"
-                href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-43049"
-                style={
-                  Object {
-                    "backgroundColor": "#3497C5",
-                    "marginBottom": "0px",
-                  }
-                }
-              >
-                Results
-              </a>
-            </div>
-          </styled.div>
-          <styled.div
-            style={
-              Object {
-                "paddingLeft": "1rem",
-              }
-            }
-          >
-            <div
-              className="sc-bdfBwQ bNNAox"
-              style={
-                Object {
-                  "paddingLeft": "1rem",
-                }
-              }
-            >
-              <small>
-                25-09-2018
-              </small>
-              <br />
-              <a
-                href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-43049"
-              >
-                Caco-2 cells: cultured in conventional vs apical anaerobic conditions
-                 – 
-                <i>
-                  Homo sapiens
-                </i>
-              </a>
-            </div>
-          </styled.div>
-        </div>
-      </LatestExperimentEntry>
-    </li>
-  </ul>
-</LatestExperimentsList>
+          Results
+        </a>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT"
+        style={
+          Object {
+            "paddingLeft": "1rem",
+          }
+        }
+      >
+        <small>
+          25-09-2018
+        </small>
+        <br />
+        <a
+          href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-43049"
+        >
+          Caco-2 cells: cultured in conventional vs apical anaerobic conditions
+           – 
+          <i>
+            Homo sapiens
+          </i>
+        </a>
+      </div>
+    </div>
+  </li>
+</ul>
 `;
 
 exports[`LatestExperimentsList matches snapshot: latest single cell experiments 1`] = `
-<LatestExperimentsList
-  experiments={
-    Array [
-      Object {
-        "arrayDesignNames": Array [],
-        "arrayDesigns": Array [],
-        "experimentAccession": "E-EHCA-2",
-        "experimentDescription": "Melanoma infiltration of stromal and immune cells",
-        "experimentType": "SINGLE_CELL_RNASEQ_MRNA_BASELINE",
-        "experimentalFactors": Array [
-          "single cell identifier",
-          "sampling site",
-          "time",
-        ],
-        "kingdom": "animals",
-        "lastUpdate": "16-11-2018",
-        "numberOfAssays": 6638,
-        "numberOfContrasts": 0,
-        "species": "Mus musculus",
-      },
-      Object {
-        "arrayDesignNames": Array [],
-        "arrayDesigns": Array [],
-        "experimentAccession": "E-MTAB-5061",
-        "experimentDescription": "Single-cell RNA-seq analysis of human pancreas from healthy individuals and type 2 diabetes patients",
-        "experimentType": "SINGLE_CELL_RNASEQ_MRNA_BASELINE",
-        "experimentalFactors": Array [
-          "single cell identifier",
-          "disease",
-        ],
-        "kingdom": "animals",
-        "lastUpdate": "11-10-2018",
-        "numberOfAssays": 3514,
-        "numberOfContrasts": 0,
-        "species": "Homo sapiens",
-      },
-      Object {
-        "arrayDesignNames": Array [],
-        "arrayDesigns": Array [],
-        "experimentAccession": "E-GEOD-99058",
-        "experimentDescription": "Single cell RNA-seq of mouse brain astrocyte transcriptomes",
-        "experimentType": "SINGLE_CELL_RNASEQ_MRNA_BASELINE",
-        "experimentalFactors": Array [
-          "single cell identifier",
-        ],
-        "kingdom": "animals",
-        "lastUpdate": "11-10-2018",
-        "numberOfAssays": 250,
-        "numberOfContrasts": 0,
-        "species": "Mus musculus",
-      },
-    ]
-  }
-  host="https://www.ebi.ac.uk/gxa/"
->
-  <ul
-    style={
-      Object {
-        "listStyle": "none",
-        "marginLeft": "offset",
-      }
+<ul
+  style={
+    Object {
+      "listStyle": "none",
+      "marginLeft": "offset",
     }
-  >
-    <li
-      key="0"
-    >
-      <LatestExperimentEntry
-        arrayDesignNames={Array []}
-        arrayDesigns={Array []}
-        experimentAccession="E-EHCA-2"
-        experimentDescription="Melanoma infiltration of stromal and immune cells"
-        experimentType="SINGLE_CELL_RNASEQ_MRNA_BASELINE"
-        experimentalFactors={
-          Array [
-            "single cell identifier",
-            "sampling site",
-            "time",
-          ]
+  }
+>
+  <li>
+    <div
+      style={
+        Object {
+          "display": "block",
+          "marginBottom": "1rem",
         }
-        host="https://www.ebi.ac.uk/gxa/"
-        kingdom="animals"
-        lastUpdate="16-11-2018"
-        numberOfAssays={6638}
-        numberOfContrasts={0}
-        species="Mus musculus"
+      }
+    >
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
       >
-        <div
+        <span
+          className="sc-gsnTZi iupGoc button"
           style={
             Object {
-              "display": "block",
-              "marginBottom": "1rem",
+              "minWidth": "120px",
+            }
+          }
+          title="Number of assays in experiment"
+        >
+          6,638
+           assays
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <a
+          className="button"
+          href="https://www.ebi.ac.uk/gxa/experiments/E-EHCA-2"
+          style={
+            Object {
+              "backgroundColor": "#3497C5",
+              "marginBottom": "0px",
             }
           }
         >
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <styled.span
-                backgroundColor="gray"
-                className="button"
-                style={
-                  Object {
-                    "minWidth": "120px",
-                  }
-                }
-                title="Number of assays in experiment"
-              >
-                <span
-                  className="sc-gsTCUz lhjHps button"
-                  style={
-                    Object {
-                      "minWidth": "120px",
-                    }
-                  }
-                  title="Number of assays in experiment"
-                >
-                  6,638
-                   assays
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <a
-                className="button"
-                href="https://www.ebi.ac.uk/gxa/experiments/E-EHCA-2"
-                style={
-                  Object {
-                    "backgroundColor": "#3497C5",
-                    "marginBottom": "0px",
-                  }
-                }
-              >
-                Results
-              </a>
-            </div>
-          </styled.div>
-          <styled.div
-            style={
-              Object {
-                "paddingLeft": "1rem",
-              }
-            }
-          >
-            <div
-              className="sc-bdfBwQ bNNAox"
-              style={
-                Object {
-                  "paddingLeft": "1rem",
-                }
-              }
-            >
-              <small>
-                16-11-2018
-              </small>
-              <br />
-              <a
-                href="https://www.ebi.ac.uk/gxa/experiments/E-EHCA-2"
-              >
-                Melanoma infiltration of stromal and immune cells
-                 – 
-                <i>
-                  Mus musculus
-                </i>
-              </a>
-            </div>
-          </styled.div>
-        </div>
-      </LatestExperimentEntry>
-    </li>
-    <li
-      key="1"
-    >
-      <LatestExperimentEntry
-        arrayDesignNames={Array []}
-        arrayDesigns={Array []}
-        experimentAccession="E-MTAB-5061"
-        experimentDescription="Single-cell RNA-seq analysis of human pancreas from healthy individuals and type 2 diabetes patients"
-        experimentType="SINGLE_CELL_RNASEQ_MRNA_BASELINE"
-        experimentalFactors={
-          Array [
-            "single cell identifier",
-            "disease",
-          ]
+          Results
+        </a>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT"
+        style={
+          Object {
+            "paddingLeft": "1rem",
+          }
         }
-        host="https://www.ebi.ac.uk/gxa/"
-        kingdom="animals"
-        lastUpdate="11-10-2018"
-        numberOfAssays={3514}
-        numberOfContrasts={0}
-        species="Homo sapiens"
       >
-        <div
+        <small>
+          16-11-2018
+        </small>
+        <br />
+        <a
+          href="https://www.ebi.ac.uk/gxa/experiments/E-EHCA-2"
+        >
+          Melanoma infiltration of stromal and immune cells
+           – 
+          <i>
+            Mus musculus
+          </i>
+        </a>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div
+      style={
+        Object {
+          "display": "block",
+          "marginBottom": "1rem",
+        }
+      }
+    >
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <span
+          className="sc-gsnTZi iupGoc button"
           style={
             Object {
-              "display": "block",
-              "marginBottom": "1rem",
+              "minWidth": "120px",
+            }
+          }
+          title="Number of assays in experiment"
+        >
+          3,514
+           assays
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <a
+          className="button"
+          href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-5061"
+          style={
+            Object {
+              "backgroundColor": "#3497C5",
+              "marginBottom": "0px",
             }
           }
         >
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <styled.span
-                backgroundColor="gray"
-                className="button"
-                style={
-                  Object {
-                    "minWidth": "120px",
-                  }
-                }
-                title="Number of assays in experiment"
-              >
-                <span
-                  className="sc-gsTCUz lhjHps button"
-                  style={
-                    Object {
-                      "minWidth": "120px",
-                    }
-                  }
-                  title="Number of assays in experiment"
-                >
-                  3,514
-                   assays
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <a
-                className="button"
-                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-5061"
-                style={
-                  Object {
-                    "backgroundColor": "#3497C5",
-                    "marginBottom": "0px",
-                  }
-                }
-              >
-                Results
-              </a>
-            </div>
-          </styled.div>
-          <styled.div
-            style={
-              Object {
-                "paddingLeft": "1rem",
-              }
-            }
-          >
-            <div
-              className="sc-bdfBwQ bNNAox"
-              style={
-                Object {
-                  "paddingLeft": "1rem",
-                }
-              }
-            >
-              <small>
-                11-10-2018
-              </small>
-              <br />
-              <a
-                href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-5061"
-              >
-                Single-cell RNA-seq analysis of human pancreas from healthy individuals and type 2 diabetes patients
-                 – 
-                <i>
-                  Homo sapiens
-                </i>
-              </a>
-            </div>
-          </styled.div>
-        </div>
-      </LatestExperimentEntry>
-    </li>
-    <li
-      key="2"
-    >
-      <LatestExperimentEntry
-        arrayDesignNames={Array []}
-        arrayDesigns={Array []}
-        experimentAccession="E-GEOD-99058"
-        experimentDescription="Single cell RNA-seq of mouse brain astrocyte transcriptomes"
-        experimentType="SINGLE_CELL_RNASEQ_MRNA_BASELINE"
-        experimentalFactors={
-          Array [
-            "single cell identifier",
-          ]
+          Results
+        </a>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT"
+        style={
+          Object {
+            "paddingLeft": "1rem",
+          }
         }
-        host="https://www.ebi.ac.uk/gxa/"
-        kingdom="animals"
-        lastUpdate="11-10-2018"
-        numberOfAssays={250}
-        numberOfContrasts={0}
-        species="Mus musculus"
       >
-        <div
+        <small>
+          11-10-2018
+        </small>
+        <br />
+        <a
+          href="https://www.ebi.ac.uk/gxa/experiments/E-MTAB-5061"
+        >
+          Single-cell RNA-seq analysis of human pancreas from healthy individuals and type 2 diabetes patients
+           – 
+          <i>
+            Homo sapiens
+          </i>
+        </a>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div
+      style={
+        Object {
+          "display": "block",
+          "marginBottom": "1rem",
+        }
+      }
+    >
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <span
+          className="sc-gsnTZi iupGoc button"
           style={
             Object {
-              "display": "block",
-              "marginBottom": "1rem",
+              "minWidth": "120px",
+            }
+          }
+          title="Number of assays in experiment"
+        >
+          250
+           assays
+        </span>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT hide-for-small-only"
+      >
+        <a
+          className="button"
+          href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-99058"
+          style={
+            Object {
+              "backgroundColor": "#3497C5",
+              "marginBottom": "0px",
             }
           }
         >
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <styled.span
-                backgroundColor="gray"
-                className="button"
-                style={
-                  Object {
-                    "minWidth": "120px",
-                  }
-                }
-                title="Number of assays in experiment"
-              >
-                <span
-                  className="sc-gsTCUz lhjHps button"
-                  style={
-                    Object {
-                      "minWidth": "120px",
-                    }
-                  }
-                  title="Number of assays in experiment"
-                >
-                  250
-                   assays
-                </span>
-              </styled.span>
-            </div>
-          </styled.div>
-          <styled.div
-            className="hide-for-small-only"
-          >
-            <div
-              className="sc-bdfBwQ bNNAox hide-for-small-only"
-            >
-              <a
-                className="button"
-                href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-99058"
-                style={
-                  Object {
-                    "backgroundColor": "#3497C5",
-                    "marginBottom": "0px",
-                  }
-                }
-              >
-                Results
-              </a>
-            </div>
-          </styled.div>
-          <styled.div
-            style={
-              Object {
-                "paddingLeft": "1rem",
-              }
-            }
-          >
-            <div
-              className="sc-bdfBwQ bNNAox"
-              style={
-                Object {
-                  "paddingLeft": "1rem",
-                }
-              }
-            >
-              <small>
-                11-10-2018
-              </small>
-              <br />
-              <a
-                href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-99058"
-              >
-                Single cell RNA-seq of mouse brain astrocyte transcriptomes
-                 – 
-                <i>
-                  Mus musculus
-                </i>
-              </a>
-            </div>
-          </styled.div>
-        </div>
-      </LatestExperimentEntry>
-    </li>
-  </ul>
-</LatestExperimentsList>
+          Results
+        </a>
+      </div>
+      <div
+        className="sc-bczRLJ iuLMzT"
+        style={
+          Object {
+            "paddingLeft": "1rem",
+          }
+        }
+      >
+        <small>
+          11-10-2018
+        </small>
+        <br />
+        <a
+          href="https://www.ebi.ac.uk/gxa/experiments/E-GEOD-99058"
+        >
+          Single cell RNA-seq of mouse brain astrocyte transcriptomes
+           – 
+          <i>
+            Mus musculus
+          </i>
+        </a>
+      </div>
+    </div>
+  </li>
+</ul>
 `;

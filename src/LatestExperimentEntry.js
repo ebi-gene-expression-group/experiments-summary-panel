@@ -1,8 +1,9 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import styled from 'styled-components'
 
 import URI from 'urijs'
+
+import { experimentPropTypes } from './experimentsPropTypes'
 
 const TableCellDiv = styled.div`
   padding-right: 0px;
@@ -22,12 +23,12 @@ const FooSpan = styled.span`
 `
 
 // TODO We should probably create an entry per experiment type so that instead of assays we show e.g. cells/contrasts
-const LatestExperimentEntry = (props) => {
-  const {experimentType, experimentAccession, experimentDescription, numberOfAssays, lastUpdate, species, host} = props
+function LatestExperimentEntry (props) {
+  const { experimentType, experimentAccession, experimentDescription, numberOfAssays, lastUpdate, species, host } = props
   const experimentUrl = URI(`experiments/${experimentAccession}`, host).toString()
 
   return (
-    <div style={{display: `block`, marginBottom: `1rem`}}>
+    <div style={{ display: `block`, marginBottom: `1rem` }}>
       {
         !experimentType.startsWith(`SINGLE_CELL`) &&
         <TableCellDiv>
@@ -38,18 +39,18 @@ const LatestExperimentEntry = (props) => {
       }
 
       <TableCellDiv className={`hide-for-small-only`}>
-        <FooSpan className={`button`} backgroundColor={`gray`} style={{minWidth:`120px`}} title={`Number of assays in experiment`}>
+        <FooSpan className={`button`} backgroundColor={`gray`} style={{ minWidth: `120px` }} title={`Number of assays in experiment`}>
           { numberOfAssays.toString().replace(/\B(?=(\d{3})+(?!\d))/g, `,`) } assays
         </FooSpan>
       </TableCellDiv>
 
       <TableCellDiv className={`hide-for-small-only`}>
-        <a className={`button`} style={{marginBottom: `0px`, backgroundColor: `#3497C5`}} href={experimentUrl}>
+        <a className={`button`} style={{ marginBottom: `0px`, backgroundColor: `#3497C5` }} href={experimentUrl}>
           Results
         </a>
       </TableCellDiv>
 
-      <TableCellDiv style={{paddingLeft: `1rem`}}>
+      <TableCellDiv style={{ paddingLeft: `1rem` }}>
         <small>{lastUpdate}</small><br/>
         <a href={experimentUrl}>
           {experimentDescription} – <i>{species}</i>
@@ -59,14 +60,6 @@ const LatestExperimentEntry = (props) => {
   )
 }
 
-LatestExperimentEntry.propTypes = {
-  experimentType: PropTypes.string.isRequired,
-  experimentAccession: PropTypes.string.isRequired,
-  experimentDescription: PropTypes.string.isRequired,
-  numberOfAssays: PropTypes.number.isRequired,
-  lastUpdate: PropTypes.string.isRequired,
-  species: PropTypes.string.isRequired,
-  host: PropTypes.string.isRequired
-}
+LatestExperimentEntry.propTypes = experimentPropTypes
 
 export default LatestExperimentEntry

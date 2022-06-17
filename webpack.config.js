@@ -1,4 +1,3 @@
-const { CleanWebpackPlugin } = require(`clean-webpack-plugin`)
 const path = require(`path`)
 
 const commonPublicPath = `/dist/`
@@ -6,18 +5,13 @@ const vendorsBundleName = `vendors`
 
 module.exports = {
   entry: {
-    experimentsSummaryDemo: [`@babel/polyfill`, `./html/ExperimentsSummaryDemo.js`]
+    experimentsSummaryDemo: [`./html/ExperimentsSummaryDemo.js`]
   },
-
-  plugins: [
-    new CleanWebpackPlugin()
-  ],
 
   output: {
     library: `[name]`,
-    path: path.resolve(__dirname, `dist`),
     filename: `[name].bundle.js`,
-    publicPath: `/html/`
+    clean:true
   },
   optimization: {
     runtimeChunk: {
@@ -46,7 +40,11 @@ module.exports = {
 
   devServer: {
     port: 9000,
-    contentBase: path.resolve(__dirname, `html`),
-    publicPath: commonPublicPath
+    static: `./html`,
+    devMiddleware: {
+      publicPath: `/dist`
+    }
+    // Add if developing a SPA to redirect non-matching routes known by WDS (i.e. no document in /html) to the router
+    // historyApiFallback: true
   }
 }
