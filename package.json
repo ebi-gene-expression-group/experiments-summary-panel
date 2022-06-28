@@ -23,7 +23,7 @@
     "url": "https://github.com/ebi-gene-expression-group/experiments-summary-panel"
   },
   "dependencies": {
-    "@ebi-gene-expression-group/atlas-homepage-cards": "^2.5.2",
+    "@ebi-gene-expression-group/atlas-homepage-cards": "^2.5.3",
     "prop-types": "^15.8.1",
     "react": "^17.0.2",
     "styled-components": "^5.3.5",
