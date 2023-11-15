@@ -35,7 +35,7 @@
     "@babel/polyfill": "^7.11.5",
     "@babel/preset-env": "^7.18.2",
     "@babel/preset-react": "^7.17.12",
-    "@ebi-gene-expression-group/eslint-config": "^3.3.0",
+    "@ebi-gene-expression-group/eslint-config": "^3.5.1",
     "@ebi-gene-expression-group/eslint-config-gene-expression": "^0.6.0",
     "babel-jest": "^28.1.1",
     "babel-loader": "^8.2.5",
